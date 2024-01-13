@@ -1,0 +1,4826 @@
+[
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 il testo del link del canale Twitch dei Termosifoni?",
+		"answer_correct":"itermosifoni",
+		"answer_wrong_1":"termosifoni",
+		"answer_wrong_2":"i_termosifoni",
+		"answer_wrong_3":"termosifonitwitch"
+	},
+	{
+		"difficulty":"7",
+		"question":"Pepe, la rana verde omnipresente nelle emote di Twitch, Termosifoni inclusi, \u00E8 stato creato da chi?",
+		"answer_correct":"Matt Furie",
+		"answer_wrong_1":"Tim Buckley",
+		"answer_wrong_2":"Mark Baker",
+		"answer_wrong_3":"John Pepe"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi di loro non ha almeno un numero nel suo nickname completo?",
+		"answer_correct":"KornFactory",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Mark",
+		"answer_wrong_3":"Vector"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 il vero nome di Lyezar?",
+		"answer_correct":"Simone",
+		"answer_wrong_1":"Gennaro",
+		"answer_wrong_2":"Marco",
+		"answer_wrong_3":"Vincenzo"
+	},
+	{
+		"difficulty":"2",
+		"question":"Qual \u00E8 il secondo nome di Mark?",
+		"answer_correct":"Saverio",
+		"answer_wrong_1":"Marco",
+		"answer_wrong_2":"Ettore",
+		"answer_wrong_3":"Maria"
+	},
+	{
+		"difficulty":"1",
+		"question":"In quale citt\u00E0 risiede Moro?",
+		"answer_correct":"Fermignano",
+		"answer_wrong_1":"Ancona",
+		"answer_wrong_2":"Monza",
+		"answer_wrong_3":"Sassari"
+	},
+	{
+		"difficulty":"3",
+		"question":"Secondo una vecchia versione del regolamento della chat, cosa vi avrebbe rotto in testa Corvo?",
+		"answer_correct":"Una sedia",
+		"answer_wrong_1":"Un tavolo",
+		"answer_wrong_2":"Le uova",
+		"answer_wrong_3":"Le corna"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa fa apparire in chat il comando !Pathfinder?",
+		"answer_correct":"Mai pi\u00F9",
+		"answer_wrong_1":"Never",
+		"answer_wrong_2":"Stop",
+		"answer_wrong_3":"Bastah"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale marchio appariva nelle prime live dei Termosifoni, quando ancora veniva affiancato al vecchio logo?",
+		"answer_correct":"Razer",
+		"answer_wrong_1":"Elgato",
+		"answer_wrong_2":"Sony",
+		"answer_wrong_3":"Nvidia"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il primo cestista inventato da Mark, ad oggi parte del TermoVerse?",
+		"answer_correct":"Michael Josas",
+		"answer_wrong_1":"Michael Jordan",
+		"answer_wrong_2":"Michael Sbinno",
+		"answer_wrong_3":"Michael Baudo"
+	},
+	{
+		"difficulty":"1",
+		"question":"L'emoticon TermoDurian presenta una faccia. A quale personaggio del TermoVerse appartiene?",
+		"answer_correct":"Il Sole Di Mark",
+		"answer_wrong_1":"Il Trenino Eynus",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Pippo Baudo"
+	},
+	{
+		"difficulty":"3",
+		"question":"Come si chiama il gioco in cui \u00E8 nato il personaggio di Yezar?",
+		"answer_correct":"Hobo Tough Life",
+		"answer_wrong_1":"The Last Dead End",
+		"answer_wrong_2":"Flashing Lights",
+		"answer_wrong_3":"GTFO"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiamava la calciatrice creata da Moro per FIFA 2022?",
+		"answer_correct":"Donna Rum",
+		"answer_wrong_1":"Britney Spears",
+		"answer_wrong_2":"Wilma Fuckers",
+		"answer_wrong_3":"Porca Moglie"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 la citta in cui risiedeva Esprit nel periodo in cui era membro ufficiale dei Termosifoni?",
+		"answer_correct":"Povo",
+		"answer_wrong_1":"Monza",
+		"answer_wrong_2":"Fermignano",
+		"answer_wrong_3":"Ancona"
+	},
+	{
+		"difficulty":"3",
+		"question":"Secondo una sue dirette dichiarazioni, qual \u00E8 il colore preferito di Moro?",
+		"answer_correct":"Blu",
+		"answer_wrong_1":"Rosa",
+		"answer_wrong_2":"Rosso",
+		"answer_wrong_3":"Giallo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi non \u00E8 mai stato un verme di Mark su Worms?",
+		"answer_correct":"Michael Tennis",
+		"answer_wrong_1":"Zuppa Di Culo",
+		"answer_wrong_2":"Johnny Vozza",
+		"answer_wrong_3":"Arrow"
+	},
+	{
+		"difficulty":"6",
+		"question":"In quale posizione si \u00E8 classificato Lyezar nell'evento Creator Race-Off di F1 2022",
+		"answer_correct":"Quarto",
+		"answer_wrong_1":"Settimo",
+		"answer_wrong_2":"Penultimo",
+		"answer_wrong_3":"Terzo"
+	},
+	{
+		"difficulty":"7",
+		"question":"Con quale veicolo ha gareggiato Lyezar nell'evento Creator Race-Off di F1 2022",
+		"answer_correct":"Aston Martin",
+		"answer_wrong_1":"Ferrari",
+		"answer_wrong_2":"Haas",
+		"answer_wrong_3":"Mercedes"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale personaggio \u00E8 nato da un errore nel gioco Chi Vuol Essere Milionario?",
+		"answer_correct":"Ralph Supersonico",
+		"answer_wrong_1":"Durian Zapata",
+		"answer_wrong_2":"Wilma Fuckers",
+		"answer_wrong_3":"Trenino Eynus"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di questi non \u00E8 un personaggio dei Termosifoni che hanno giocato su FIFA?",
+		"answer_correct":"Maurizio Burro",
+		"answer_wrong_1":"Meite Nkoulou",
+		"answer_wrong_2":"Lye Zord",
+		"answer_wrong_3":"Maurizio Leccabuco"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiamava il calciatore di Mark sulla prima edizione del gioco Freestyle Football?",
+		"answer_correct":"Culetto",
+		"answer_wrong_1":"Durian Zapata",
+		"answer_wrong_2":"Franciesco Toti",
+		"answer_wrong_3":"Gingol Bell"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore sono i capelli di Gingol Bell?",
+		"answer_correct":"Fucsia",
+		"answer_wrong_1":"Rossi",
+		"answer_wrong_2":"Biondi",
+		"answer_wrong_3":"Verdi"
+	},
+	{
+		"difficulty":"2",
+		"question":"Chi ha vinto la prima TermoRumble su WWE 2K22?",
+		"answer_correct":"Ralph Supersonico",
+		"answer_wrong_1":"Chad Moro",
+		"answer_wrong_2":"Pezzo Verde",
+		"answer_wrong_3":"Asino Di Memento"
+	},
+	{
+		"difficulty":"4",
+		"question":"Nella live del day-one di Pokemon Scarlatto e Violetto, chi ha giocato all'edizione Violetto?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Luke"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale caratteristica ha il titolo delle dirette su Trouble In Terrorist Town?",
+		"answer_correct":"Presenta tre lettere T",
+		"answer_wrong_1":"\u00C8 scritta solo con emoji",
+		"answer_wrong_2":"\u00C8 tutto in maiuscolo",
+		"answer_wrong_3":"Gioco eratto nel titolo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il fantomatico compositore musicale del TermoVerse?",
+		"answer_correct":"Prato Fluido",
+		"answer_wrong_1":"Campo Bollente",
+		"answer_wrong_2":"Campagna aperta",
+		"answer_wrong_3":"Erba liquida"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale lettera \u00E8 rappresentata nell'immagine dell'emote dello Gnomo Delle Feci?",
+		"answer_correct":"O",
+		"answer_wrong_1":"G",
+		"answer_wrong_2":"T",
+		"answer_wrong_3":"F"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quale di queste armi era considerata maledetta durante le dirette di PUBG",
+		"answer_correct":"VSS",
+		"answer_wrong_1":"Scar-H",
+		"answer_wrong_2":"AK47",
+		"answer_wrong_3":"Kar"
+	},
+	{
+		"difficulty":"2",
+		"question":"Qual \u00E8 l'handle dei Termosifoni su X, precedentemente noto come Twitter?",
+		"answer_correct":"@Termosifoni",
+		"answer_wrong_1":"@Itermosifoni",
+		"answer_wrong_2":"@TermosifoniTwitch",
+		"answer_wrong_3":"@TermosifoniTwitter"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale premio viene assegnato all'utente che ha donato un abbonamento ad un utente casuale con un nome divertente?",
+		"answer_correct":"Pisello d'oro",
+		"answer_wrong_1":"Sub Master",
+		"answer_wrong_2":"VIP",
+		"answer_wrong_3":"Pippo Baudo delle sub"
+	},
+	{
+		"difficulty":"5",
+		"question":"Di che colore era la pallina del Maledetto Col Cappello Da Pirata su Golf With Your Friends?",
+		"answer_correct":"Rossa",
+		"answer_wrong_1":"Nera",
+		"answer_wrong_2":"Bianca",
+		"answer_wrong_3":"Fucsia"
+	},
+	{
+		"difficulty":"3",
+		"question":"Chi dei Termosifoni ha guidato, ad un evento, una vera auto di Formula 1 nel 2019?",
+		"answer_correct":"Nessuno",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Mark"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale calciatore \u00E8 stato intervistato da Mark in un evento di Amazon nel 2021?",
+		"answer_correct":"Claudio Marchisio",
+		"answer_wrong_1":"Alex Del Piero",
+		"answer_wrong_2":"Francesco Totti",
+		"answer_wrong_3":"Roberto Baggio"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale tra questi \u00E8 il colore predominante dei mobili dietro Lyezar nelle live del 2022 e 2023?",
+		"answer_correct":"Verde",
+		"answer_wrong_1":"Rosso",
+		"answer_wrong_2":"Blu",
+		"answer_wrong_3":"Nero"
+	},
+	{
+		"difficulty":"4",
+		"question":"Si dice che il personaggio di Moro su Bloodborne \u00E8 ispirato ad un personaggio pubblico che di mestiere fa\u2026",
+		"answer_correct":"Il politico",
+		"answer_wrong_1":"Il cantante",
+		"answer_wrong_2":"Il calciatore",
+		"answer_wrong_3":"Lo streamer"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi sono i due Termosifoni famosi per risidere a Monza e ditorni?",
+		"answer_correct":"Mark e Lyezar",
+		"answer_wrong_1":"Luke e Moro",
+		"answer_wrong_2":"Mark e Moro",
+		"answer_wrong_3":"Lyezar e Moro"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale animale viene solitamente associato a Lyezar?",
+		"answer_correct":"Lucertola",
+		"answer_wrong_1":"Leone",
+		"answer_wrong_2":"Cane",
+		"answer_wrong_3":"Gatto"
+	},
+	{
+		"difficulty":"1",
+		"question":"Per quale attivit\u00E0 atletica o sportiva \u00E8 famoso Corvo Bianco?",
+		"answer_correct":"Wrestling",
+		"answer_wrong_1":"Calcio",
+		"answer_wrong_2":"Basket",
+		"answer_wrong_3":"Salto con l'asta"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quali colori sono spesso usati da Mark?",
+		"answer_correct":"Giallo e viola",
+		"answer_wrong_1":"Rosso e nero",
+		"answer_wrong_2":"Fucsia e celeste",
+		"answer_wrong_3":"Bianco e nero"
+	},
+	{
+		"difficulty":"2",
+		"question":"Qual \u00E8 stata la prima edizione del TermoBest?",
+		"answer_correct":"Giugno 2017",
+		"answer_wrong_1":"Gennaio 2018",
+		"answer_wrong_2":"Marzo 2017",
+		"answer_wrong_3":"Giugno 2016"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 la frequenza di uscita dei TermoBest?",
+		"answer_correct":"Una volta al mese",
+		"answer_wrong_1":"Due volte al mese",
+		"answer_wrong_2":"Una volta alla settimana",
+		"answer_wrong_3":"Una volta all'anno"
+	},
+	{
+		"difficulty":"4",
+		"question":"Come si chiama l'utente virtuale che aiuta nell'assegnazione dei ruoli nel server Discord?",
+		"answer_correct":"Carlo Botti",
+		"answer_wrong_1":"TermoControllore",
+		"answer_wrong_2":"Moobot",
+		"answer_wrong_3":"Nightbot"
+	},
+	{
+		"difficulty":"6",
+		"question":"Quale veicolo ha guidato Lyezar durante la live su F1 2015 di luglio 2022? ",
+		"answer_correct":"Sauber",
+		"answer_wrong_1":"Ferrari",
+		"answer_wrong_2":"Force India",
+		"answer_wrong_3":"Marussia"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale gioco \u00E8 nato il personaggio Sabrino Riga?",
+		"answer_correct":"Farming Simulator",
+		"answer_wrong_1":"WWE 2K22",
+		"answer_wrong_2":"TTT",
+		"answer_wrong_3":"Grounded"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale gioco \u00E8 nato il personaggio Gingol Bell?",
+		"answer_correct":"UFC",
+		"answer_wrong_1":"WWE 2K22",
+		"answer_wrong_2":"Giochi Olimpici 2020",
+		"answer_wrong_3":"Farming Simulator"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il personaggio creato da Moro per il gioco Elden Ring",
+		"answer_correct":"Achille L'Aureo",
+		"answer_wrong_1":"Pippo Franco",
+		"answer_wrong_2":"Liquidino",
+		"answer_wrong_3":"Mauro Zanichelli"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi si chiama Lorenzo nei Termosifoni",
+		"answer_correct":"Moro",
+		"answer_wrong_1":"Mark",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Luke"
+	},
+	{
+		"difficulty":"2",
+		"question":"Chi di loro non ha partecipato al video di xxDarkAngelCraftxx su Minecraft?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Yotobi",
+		"answer_wrong_3":"Lyezar"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale prefisso i Termosifoni appongono prima del nome nei giochi online?",
+		"answer_correct":"TS",
+		"answer_wrong_1":"TERMO",
+		"answer_wrong_2":"TRM",
+		"answer_wrong_3":"TER"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi ha creato la maggior parte delle emoticon di Twitch, escludendo quelle nelle estensioni?",
+		"answer_correct":"Ckibe",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Vector",
+		"answer_wrong_3":"Mark"
+	},
+	{
+		"difficulty":"1",
+		"question":"Da settembre 2022 c'\u00E8 stato un cambio nella programmazione dei Termosifoni, quale?",
+		"answer_correct":"Le live iniziano alle 10",
+		"answer_wrong_1":"Live fissa il sabato sera",
+		"answer_wrong_2":"Nessuna live di domenica",
+		"answer_wrong_3":"Moro By Night dalle 23:00"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quando \u00E8 stata fatta la diretta sulla Vera Storia dei Termosifoni?",
+		"answer_correct":"Ottobre 2016",
+		"answer_wrong_1":"Gennaio 2016",
+		"answer_wrong_2":"Ottobre 2017",
+		"answer_wrong_3":"Gennaio 2017"
+	},
+	{
+		"difficulty":"5",
+		"question":"Qual \u00E8 l'handle del canale delle live Twitch su Youtube?",
+		"answer_correct":"@TermosifoniLive",
+		"answer_wrong_1":"@TermosifoniTwitch",
+		"answer_wrong_2":"@Termosifoni",
+		"answer_wrong_3":"@Itermosifoni"
+	},
+	{
+		"difficulty":"1",
+		"question":"Nel 2022, quando potevi vedere tre dirette in un singolo giorno dai Termosifoni?",
+		"answer_correct":"Marted\u00EC",
+		"answer_wrong_1":"Mercoled\u00EC",
+		"answer_wrong_2":"Luned\u00EC",
+		"answer_wrong_3":"Domenica"
+	},
+	{
+		"difficulty":"2",
+		"question":"Chi dei Termosifoni ha giocato praticamente tutto Undertale in diretta?",
+		"answer_correct":"Moro",
+		"answer_wrong_1":"Mark",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Nessuno"
+	},
+	{
+		"difficulty":"5",
+		"question":"Come \u00E8 possibile trovare Mark su Instagram?",
+		"answer_correct":"MarcoMark_",
+		"answer_wrong_1":"MarcoMark",
+		"answer_wrong_2":"Marco_Mark",
+		"answer_wrong_3":"_MarcoMark"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 la copertina della prima edizione del libro del TermOraculo",
+		"answer_correct":"Viola",
+		"answer_wrong_1":"Marrone",
+		"answer_wrong_2":"Rosso",
+		"answer_wrong_3":"Beige"
+	},
+	{
+		"difficulty":"2",
+		"question":"Qual \u00E8 il nickname corretto di Vector su Twitch (Al 2022)?",
+		"answer_correct":"Vector897",
+		"answer_wrong_1":"Vector978",
+		"answer_wrong_2":"Vector987",
+		"answer_wrong_3":"Vector879"
+	},
+	{
+		"difficulty":"2",
+		"question":"Secondo Streamelements, a luglio 2023, quale dei seguenti mod ha il minor numero di messaggi in chat?",
+		"answer_correct":"Irojet",
+		"answer_wrong_1":"Vector",
+		"answer_wrong_2":"KoRnFactory",
+		"answer_wrong_3":"Veertien"
+	},
+	{
+		"difficulty":"3",
+		"question":"Secondo Streamelements, quale emote \u00E8 la pi\u00F9 usata nella chat di Twitch dei Termosifoni a meta\u00E0 2023?",
+		"answer_correct":"termoCiao",
+		"answer_wrong_1":"termoLove",
+		"answer_wrong_2":"termoLul",
+		"answer_wrong_3":"termoKAPPA"
+	},
+	{
+		"difficulty":"3",
+		"question":"Chi \u00E8 presente nell'emote TermoDance?",
+		"answer_correct":"Moro",
+		"answer_wrong_1":"Mark",
+		"answer_wrong_2":"Il Sole Di Mark",
+		"answer_wrong_3":"Trenino Eynus"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa caratterizza l'espressione INDUC?",
+		"answer_correct":"Occhiali al contrario",
+		"answer_wrong_1":"Le mani sulla testa",
+		"answer_wrong_2":"Il dito medio",
+		"answer_wrong_3":"La lingua di fuori"
+	},
+	{
+		"difficulty":"1",
+		"question":"A quale ammontare preciso le donazioni vengono lette da una voce giapponese?",
+		"answer_correct":"5 euro e 50 centesimi",
+		"answer_wrong_1":"5 euro e 0 centesimi",
+		"answer_wrong_2":"6 euro e 90 centesimi",
+		"answer_wrong_3":"5 euro e 4 centesimi"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste donazioni si pensa porti sfiga?",
+		"answer_correct":"Star Wars Griffin",
+		"answer_wrong_1":"Scossa?",
+		"answer_wrong_2":"Terra da rose",
+		"answer_wrong_3":"Siamo 4 5 6 "
+	},
+	{
+		"difficulty":"3",
+		"question":"Secondo streamelements, a met\u00E0 2023, quanti messaggi sono stati scritti in chat in totale?",
+		"answer_correct":"6 milioni",
+		"answer_wrong_1":"7 milioni",
+		"answer_wrong_2":"8 milioni",
+		"answer_wrong_3":"9 milioni"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste descrizioni non corrispondono all'aspetto di TermoVisione",
+		"answer_correct":"Ha il mento disegnato",
+		"answer_wrong_1":"Ha la faccia piccola",
+		"answer_wrong_2":"\u00C8 viola",
+		"answer_wrong_3":"Ha il naso"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quale di questi dettagli non \u00E8 presente nella emote di Yezar?",
+		"answer_correct":"Ha la maglia nera",
+		"answer_wrong_1":"Ha gli occhi rossi",
+		"answer_wrong_2":"Ha il naso allungato",
+		"answer_wrong_3":"Ha la bocca allungata"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 lo sfondo dell'emote TermoStonks?",
+		"answer_correct":"Blu",
+		"answer_wrong_1":"Rosso",
+		"answer_wrong_2":"Verde",
+		"answer_wrong_3":"Trasparente"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa caratterizza le foto dei Termosifoni nelle emote Stare caricate su 7TV?",
+		"answer_correct":"Occhiali davanti al volto",
+		"answer_wrong_1":"Occhi fuori dalle orbite",
+		"answer_wrong_2":"Occhi finti",
+		"answer_wrong_3":"Occhi coperti dalle mani"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama la competizione fantacalcistica dei Termosifoni?",
+		"answer_correct":"FantaSodio",
+		"answer_wrong_1":"FantaCalcio",
+		"answer_wrong_2":"TermoFantaCalcio",
+		"answer_wrong_3":"FantaTermos"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale sigla \u00E8 associabile alla rubrica dedicata ai meme creati dai follower dei Termosifoni?",
+		"answer_correct":"Uno Mattina",
+		"answer_wrong_1":"I Fatti Vostri",
+		"answer_wrong_2":"Grand Prix",
+		"answer_wrong_3":"Don Matteo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale badge sbloccano i nuovi abbonati nel canale dei Termosifoni?",
+		"answer_correct":"Torcia",
+		"answer_wrong_1":"Termosifone dorato",
+		"answer_wrong_2":"Caminetto",
+		"answer_wrong_3":"Stella"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale tra questi non \u00E8 parte - al 2023 - dei gemelli Nkoulou?",
+		"answer_correct":"Into",
+		"answer_wrong_1":"Dida",
+		"answer_wrong_2":"Momete",
+		"answer_wrong_3":"Tohopiyi"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il personaggio spesso usato da Lyezar nei vari giochi",
+		"answer_correct":"Soshito Male",
+		"answer_wrong_1":"Concettina Wakamoto",
+		"answer_wrong_2":"Lyezar San",
+		"answer_wrong_3":"Makakata"
+	},
+	{
+		"difficulty":"6",
+		"question":"Da quante pagine \u00E8 ufficialmente composta la prima edizione del TermOraculo",
+		"answer_correct":"406",
+		"answer_wrong_1":"400",
+		"answer_wrong_2":"415",
+		"answer_wrong_3":"390"
+	},
+	{
+		"difficulty":"5",
+		"question":"Cosa c'\u00E8 scritto nella penultima pagina del TermOraculo?",
+		"answer_correct":"Eynus Ti Osserva",
+		"answer_wrong_1":"O",
+		"answer_wrong_2":"Grazie per il supporto",
+		"answer_wrong_3":"Seguici su Twitch"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi dettagli non \u00E8 presente nel logo dei Termosifoni?",
+		"answer_correct":"Presenta le lettere TS",
+		"answer_wrong_1":"\u00C8 un gamepad",
+		"answer_wrong_2":"\u00C8 a strisce verticali",
+		"answer_wrong_3":"Presenta del fumo"
+	},
+	{
+		"difficulty":"1",
+		"question":"A cosa \u00E8 ispirato il Trenino Eynus?",
+		"answer_correct":"Trenino Thomas",
+		"answer_wrong_1":"Un Frecciarossa",
+		"answer_wrong_2":"Mr Bean",
+		"answer_wrong_3":"Una bottiglia termica"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi \u00E8 l'interprete solito del Trenino Eynus?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Luke",
+		"answer_wrong_3":"Lyezar"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa \u00E8 possibile guadagnare guardando in diretta i Termosifoni?",
+		"answer_correct":"TermoSoldi",
+		"answer_wrong_1":"Bits",
+		"answer_wrong_2":"Mesi di abbonamento",
+		"answer_wrong_3":"Soldi veri"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quanto minimo bisogna donare per far leggere la propria donazione dal bot?",
+		"answer_correct":"5 euro",
+		"answer_wrong_1":"1 euro",
+		"answer_wrong_2":"10 euro",
+		"answer_wrong_3":"69 euro"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama la diretta solitaria di Mark?",
+		"answer_correct":"Marked\u00EC",
+		"answer_wrong_1":"Markoled\u00EC",
+		"answer_wrong_2":"Mark By Night",
+		"answer_wrong_3":"Mark On Line"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama di solito la squadra del fantacalcio di Mark?",
+		"answer_correct":"Markentus",
+		"answer_wrong_1":"Markinter",
+		"answer_wrong_2":"A.S. Mark",
+		"answer_wrong_3":"Mark F.C."
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama, nel 2022, la diretta solitaria di Moro che fa tra venerd\u00EC e sabato?",
+		"answer_correct":"Moro By Night",
+		"answer_wrong_1":"Morelli Show",
+		"answer_wrong_2":"Morod\u00EC",
+		"answer_wrong_3":"Sabato Moro"
+	},
+	{
+		"difficulty":"3",
+		"question":"Nell'evento YoTizio, qual era la rubrica presentata da Moro?",
+		"answer_correct":"Moroscopo",
+		"answer_wrong_1":"Meteo",
+		"answer_wrong_2":"Morocraft",
+		"answer_wrong_3":"Cucina Morelli"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 lo sfondo del logo dei Termosifoni nella pagina Twitch?",
+		"answer_correct":"Viola",
+		"answer_wrong_1":"Rosso",
+		"answer_wrong_2":"Giallo",
+		"answer_wrong_3":"Blu"
+	},
+	{
+		"difficulty":"1",
+		"question":"Da quale programma TV \u00E8 derivata la sigla della Rassegna Stonka?",
+		"answer_correct":"Gran Prix",
+		"answer_wrong_1":"Buona Domenica",
+		"answer_wrong_2":"Pole Position",
+		"answer_wrong_3":"Studio Sport"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi tra loro \u00E8 nato prima?",
+		"answer_correct":"Lyezar",
+		"answer_wrong_1":"Mark",
+		"answer_wrong_2":"Moro",
+		"answer_wrong_3":"Luke"
+	},
+	{
+		"difficulty":"1",
+		"question":"Che caratteristica aveva la capigliatura di Moro nelle prime dirette con webcam?",
+		"answer_correct":"La pinna",
+		"answer_wrong_1":"Il mullet",
+		"answer_wrong_2":"Erano verdi",
+		"answer_wrong_3":"Il codino"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa c'\u00E8 scritto sul ring delle TermoRumble in WWE 2K22?",
+		"answer_correct":"Termoverse",
+		"answer_wrong_1":"Termorumble",
+		"answer_wrong_2":"Termosifoni",
+		"answer_wrong_3":"Royal Rumble"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quale animale era presente nel primo logo della Termosifoni F.C. su FIFA 22?",
+		"answer_correct":"Cavallo",
+		"answer_wrong_1":"Rana",
+		"answer_wrong_2":"Lucertola",
+		"answer_wrong_3":"Cane"
+	},
+	{
+		"difficulty":"5",
+		"question":"In un video di FIFA 14 pubblicato da CiccioGamer89, quale dei membri dei Termosifoni non era presente?",
+		"answer_correct":"Moro",
+		"answer_wrong_1":"Esprit",
+		"answer_wrong_2":"Corvo",
+		"answer_wrong_3":"Mark"
+	},
+	{
+		"difficulty":"3",
+		"question":"Come si chiamava la prima pagina Facebook dei Termosifoni",
+		"answer_correct":"La valvola di spurgo",
+		"answer_wrong_1":"Termosifoni Ufficiale",
+		"answer_wrong_2":"I Termosifoni",
+		"answer_wrong_3":"Termosifoni Twitch"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 la pelle di Achille L'Aureo?",
+		"answer_correct":"Grigia",
+		"answer_wrong_1":"Bianca",
+		"answer_wrong_2":"Rossa",
+		"answer_wrong_3":"Nera"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale numero \u00E8 presente nel nickname completo di Moro?",
+		"answer_correct":"92",
+		"answer_wrong_1":"93",
+		"answer_wrong_2":"897",
+		"answer_wrong_3":"879"
+	},
+	{
+		"difficulty":"2",
+		"question":"Nel canale Youtube di Moro \u00E8 presente un video di una canzone chiamato Sono Tutto Duro. Di chi \u00E8 la voce?",
+		"answer_correct":"KornFactory",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Mark",
+		"answer_wrong_3":"Vector897"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale dei Termosifoni \u00E8 stato Unboxato ad un evento?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Corvo"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa ha in mano l'avatar di Mark nel suo canale Youtube personale nel 2023?",
+		"answer_correct":"Arco",
+		"answer_wrong_1":"Palla da basket",
+		"answer_wrong_2":"Cellulare",
+		"answer_wrong_3":"Termosifone"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi insetti \u00E8 noto come \"Gigante di Fermignano\"?",
+		"answer_correct":"Calabrone",
+		"answer_wrong_1":"Ape",
+		"answer_wrong_2":"Zanzara",
+		"answer_wrong_3":"Vespa"
+	},
+	{
+		"difficulty":"1",
+		"question":"Da quale gioco proviene Wilma Fuckers?",
+		"answer_correct":"EuroTruck",
+		"answer_wrong_1":"Rainbow Six Siege",
+		"answer_wrong_2":"Farming Simulator",
+		"answer_wrong_3":"Overwatch"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il figlio di Zuppa Di Culo?",
+		"answer_correct":"Zuppa Di Culo Jr",
+		"answer_wrong_1":"Zuppetta di Culo",
+		"answer_wrong_2":"Zuppina di Culo",
+		"answer_wrong_3":"Pappa di Culo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi personaggi \u00E8 stato creato da Lyezar?",
+		"answer_correct":"Pierfiglio Berluscane",
+		"answer_wrong_1":"Hugo Sugo",
+		"answer_wrong_2":"Fofao",
+		"answer_wrong_3":"Btaman"
+	},
+	{
+		"difficulty":"1",
+		"question":"Da quale gioco \u00E8 nato Pezzo Verde?",
+		"answer_correct":"Tricky Towers",
+		"answer_wrong_1":"Speedrunners",
+		"answer_wrong_2":"PUBG",
+		"answer_wrong_3":"Rainbox Six Siege"
+	},
+	{
+		"difficulty":"1",
+		"question":"I Termosifoni hanno un riconoscimento speciale: sono i Pippo Baudo delle\u2026",
+		"answer_correct":"Battle Royale",
+		"answer_wrong_1":"Gare clandestine di auto",
+		"answer_wrong_2":"Live in 480p",
+		"answer_wrong_3":"Pere della Contessa"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di questi giochi non era presente nella prima live Amarcord?",
+		"answer_correct":"Need For Drink",
+		"answer_wrong_1":"PUBG",
+		"answer_wrong_2":"Tricky Towers",
+		"answer_wrong_3":"Speedrunners"
+	},
+	{
+		"difficulty":"1",
+		"question":"Nelle dirette del 2022, cosa \u00E8 presente dietro le webcam nella schermata di inizio live?",
+		"answer_correct":"Dipinti",
+		"answer_wrong_1":"Termosifoni",
+		"answer_wrong_2":"Disegni della Ckibe",
+		"answer_wrong_3":"L'icona della webcam"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale elettrodomestico \u00E8 presente in ogni pre-live nel 2022?",
+		"answer_correct":"Un jukebox",
+		"answer_wrong_1":"Una lavastoviglie",
+		"answer_wrong_2":"Un televisore",
+		"answer_wrong_3":"Un aspirapolvere"
+	},
+	{
+		"difficulty":"1",
+		"question":"Da chi \u00E8 composto il Team Maliali originale?",
+		"answer_correct":"Mark e Corvo",
+		"answer_wrong_1":"Mark e Moro",
+		"answer_wrong_2":"Mark e Lyezar",
+		"answer_wrong_3":"Lyezar e Moro"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale gioco \u00E8 nato TermoVisione?",
+		"answer_correct":"Gartic Phone",
+		"answer_wrong_1":"WWE 2K22",
+		"answer_wrong_2":"PUBG",
+		"answer_wrong_3":"TTT"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quale personaggio \u00E8 stata spesso usata avatar di Vector sulle prime live di It's Quiz Time",
+		"answer_correct":"Mattarella",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"La Regina Elisabetta II",
+		"answer_wrong_3":"Pippo Baudo"
+	},
+	{
+		"difficulty":"2",
+		"question":"Su quale gioco \u00E8 nato il termine Termosifoni secondo la loro testimonianza?",
+		"answer_correct":"Smite",
+		"answer_wrong_1":"Rocket League",
+		"answer_wrong_2":"Minecraft",
+		"answer_wrong_3":"Speedrunners"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quanti erano i membri ufficiali dei Termosifoni nel 2016?",
+		"answer_correct":"8",
+		"answer_wrong_1":"6",
+		"answer_wrong_2":"4",
+		"answer_wrong_3":"12"
+	},
+	{
+		"difficulty":"1",
+		"question":"Prima di chiamarsi Moro By Night, come si chiamavano le live notture di Moro?",
+		"answer_correct":"Friday Night Live",
+		"answer_wrong_1":"Morelli Notturno",
+		"answer_wrong_2":"Morelli Night Show",
+		"answer_wrong_3":"Morod\u00EC"
+	},
+	{
+		"difficulty":"1",
+		"question":"Donando quanti soldi \u00E8 possibile sentire la voce di Carlo Conti?",
+		"answer_correct":"2 euro e 20",
+		"answer_wrong_1":"1 euro e 50",
+		"answer_wrong_2":"6 euro e 90",
+		"answer_wrong_3":"1 euro e 20"
+	},
+	{
+		"difficulty":"3",
+		"question":"2023, dirette dal Giappone. Abbiamo visto un parco con cavalli. Cosa potevi comprare e dare loro da mangiare?",
+		"answer_correct":"Piccole carote",
+		"answer_wrong_1":"Piccole patate",
+		"answer_wrong_2":"Spicchi di mele",
+		"answer_wrong_3":"Zuccherini"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale animale di peluche campeggia spesso sul divano di Moro nel 2022?",
+		"answer_correct":"Gamberetto",
+		"answer_wrong_1":"Cane",
+		"answer_wrong_2":"Verme",
+		"answer_wrong_3":"Opossum"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi di loro abita pi\u00F9 a sud al 2023?",
+		"answer_correct":"Moro",
+		"answer_wrong_1":"Luke",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Mark"
+	},
+	{
+		"difficulty":"7",
+		"question":"Il GuessThe.Game \u00E8 uno degli appuntamenti fissi mattutini. Ma quale fu la risposta del quiz numero 1?",
+		"answer_correct":"Mass Effect 3",
+		"answer_wrong_1":"Super Mario Brothers",
+		"answer_wrong_2":"Ocarina Of Time",
+		"answer_wrong_3":"GTA San Andreas"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi giochi viene registrato e montato quasi esclusivamente su Youtube?",
+		"answer_correct":"Worms Revolution",
+		"answer_wrong_1":"PUBG",
+		"answer_wrong_2":"Rainbow Six Siege",
+		"answer_wrong_3":"Trouble In Terrorist Town"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale gioco si \u00E8 svolta la prima edizione della TermoRumble?",
+		"answer_correct":"WWE 2K22",
+		"answer_wrong_1":"WWE 2K20",
+		"answer_wrong_2":"WWE 2K21",
+		"answer_wrong_3":"WWE 2K23"
+	},
+	{
+		"difficulty":"5",
+		"question":"A quale tentativo otteniamo l'anno di release di un gioco su GuessThe.Game, gioco fisso dei Termosifoni?",
+		"answer_correct":"Quarto",
+		"answer_wrong_1":"Secondo",
+		"answer_wrong_2":"Terzo",
+		"answer_wrong_3":"Primo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi giochi non \u00E8 stato portato in live specificamente per essere giocato con gli abbonati?",
+		"answer_correct":"F1",
+		"answer_wrong_1":"Golf With Your Friends",
+		"answer_wrong_2":"Fall Guys",
+		"answer_wrong_3":"The Culling"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama la mappa dell'aeroporto, spesso preferita durante le sessioni su TTT?",
+		"answer_correct":"Terminal",
+		"answer_wrong_1":"Airport",
+		"answer_wrong_2":"Check in",
+		"answer_wrong_3":"Rooftops"
+	},
+	{
+		"difficulty":"2",
+		"question":"In che anno \u00E8 nato Lyezar?",
+		"answer_correct":"1988",
+		"answer_wrong_1":"1989",
+		"answer_wrong_2":"1992",
+		"answer_wrong_3":"1993"
+	},
+	{
+		"difficulty":"4",
+		"question":"Con quale altro content creator Lyezar condivide giorno, mese e anno di nascita?",
+		"answer_correct":"Sabaku No Maiku",
+		"answer_wrong_1":"Yotobi",
+		"answer_wrong_2":"Cicciogamer",
+		"answer_wrong_3":"PewDiePie"
+	},
+	{
+		"difficulty":"3",
+		"question":"Su quale piattaforma i Termosifoni sono descritti come Trio delle meraviglie?",
+		"answer_correct":"eVox",
+		"answer_wrong_1":"Twitch",
+		"answer_wrong_2":"Wikipedia",
+		"answer_wrong_3":"Spreadshop"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale elettrodomestico \u00E8 presente nelle magliette INDUC?",
+		"answer_correct":"Piano cottura",
+		"answer_wrong_1":"Fornetto",
+		"answer_wrong_2":"Televisore",
+		"answer_wrong_3":"Computer"
+	},
+	{
+		"difficulty":"2",
+		"question":"Qual \u00E8 noto come l'anno di fondazione dei Termosifoni?",
+		"answer_correct":"2014",
+		"answer_wrong_1":"2012",
+		"answer_wrong_2":"2016",
+		"answer_wrong_3":"2018"
+	},
+	{
+		"difficulty":"1",
+		"question":"Dove si svolge - di solito - il giveaway mensile di videogiochi promosso dai Termosifoni?",
+		"answer_correct":"Instant Gaming",
+		"answer_wrong_1":"Steam",
+		"answer_wrong_2":"Epic Games Store",
+		"answer_wrong_3":"Telegram"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 il nome di battesimo di Esprit?",
+		"answer_correct":"Mauro",
+		"answer_wrong_1":"Espritto",
+		"answer_wrong_2":"Mario",
+		"answer_wrong_3":"Pippo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quali di questi calciatori non facevano parte della formazione di Pro Club su FIFA 2022",
+		"answer_correct":"Liquidino",
+		"answer_wrong_1":"Donna Rum",
+		"answer_wrong_2":"Durian Zapata",
+		"answer_wrong_3":"Nakata Pecchia"
+	},
+	{
+		"difficulty":"2",
+		"question":"Da una famosa citazione di Mark, cosa \u00E8 la puntella?",
+		"answer_correct":"Lancia",
+		"answer_wrong_1":"Forchetta",
+		"answer_wrong_2":"Spada",
+		"answer_wrong_3":"Cannuccia"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa si ottiene quando si rompe l'alettone frontale mentre si gioca su F1 2022?",
+		"answer_correct":"La forchettina",
+		"answer_wrong_1":"La puntella",
+		"answer_wrong_2":"Il prepuzio",
+		"answer_wrong_3":"La pestora"
+	},
+	{
+		"difficulty":"1",
+		"question":"Mark, quando gioca su Uno, \u00E8 considerato l'uomo\u2026",
+		"answer_correct":"Del Change",
+		"answer_wrong_1":"Dello Switch",
+		"answer_wrong_2":"Dello Swap",
+		"answer_wrong_3":"Dello Splash"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama la forma geometrica solida formata da culi?",
+		"answer_correct":"Culallelepipedo",
+		"answer_wrong_1":"Culisma",
+		"answer_wrong_2":"Culimide",
+		"answer_wrong_3":"Culallelogramma"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale potere sfrutta KornFactory su FIFA?",
+		"answer_correct":"Kornata",
+		"answer_wrong_1":"Kornetto",
+		"answer_wrong_2":"Kornisione",
+		"answer_wrong_3":"Kornone"
+	},
+	{
+		"difficulty":"1",
+		"question":"Sono erroneamente note col nome di Nere, Plepi, Vescove",
+		"answer_correct":"Api",
+		"answer_wrong_1":"Calabroni",
+		"answer_wrong_2":"Formiche",
+		"answer_wrong_3":"Ragni"
+	},
+	{
+		"difficulty":"1",
+		"question":"Lo \u00E8 un famoso tipo di t\u00E8, spesso citato dai Termosifoni",
+		"answer_correct":"Oolong",
+		"answer_wrong_1":"Peruzzo",
+		"answer_wrong_2":"Ostia",
+		"answer_wrong_3":"Vero"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa \u00E8 una pestora nel glossario dei Termosifoni?",
+		"answer_correct":"Squalo",
+		"answer_wrong_1":"Cane",
+		"answer_wrong_2":"Pecora",
+		"answer_wrong_3":"Persona"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come chiamano i Termosifoni l'oggetto esclusivo della Navy SEALS Valkirie nel videogioco Rainbow Six Siege",
+		"answer_correct":"Telecumberbatch",
+		"answer_wrong_1":"Ciovciovcine",
+		"answer_wrong_2":"Culone",
+		"answer_wrong_3":"Salcacavalcatura"
+	},
+	{
+		"difficulty":"1",
+		"question":"Da cosa \u00E8 composto il libro del TermOraculo",
+		"answer_correct":"Citazioni dei Termosifoni",
+		"answer_wrong_1":"Nomi dei follower",
+		"answer_wrong_2":"Parole generate da una IA",
+		"answer_wrong_3":"Personaggi del TermoVerse"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il famoso farmaco che fa defecare?",
+		"answer_correct":"Cagottis",
+		"answer_wrong_1":"Cacarellin",
+		"answer_wrong_2":"Fecis",
+		"answer_wrong_3":"Gnomiz"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore sono gli occhi dell'ultima versione del Sole Di Mark?",
+		"answer_correct":"Blu",
+		"answer_wrong_1":"Gialli",
+		"answer_wrong_2":"Rossi",
+		"answer_wrong_3":"Verdi"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama la voce giapponese che, in base alla cifra donata, leggere le donazioni?",
+		"answer_correct":"Ka Ching",
+		"answer_wrong_1":"Soshito Male",
+		"answer_wrong_2":"Nakata Pecchia",
+		"answer_wrong_3":"Nakakata"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il frutto che \u00E8 stato degustato dai Termosifoni come sfida durante varie maratone?",
+		"answer_correct":"Durian",
+		"answer_wrong_1":"Uva",
+		"answer_wrong_2":"Papaya",
+		"answer_wrong_3":"Mango"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama la mascotte dei Termosifoni che appare alla fine dei video?",
+		"answer_correct":"Termosifonzie",
+		"answer_wrong_1":"Termosimone",
+		"answer_wrong_2":"Termosino",
+		"answer_wrong_3":"Termopippo"
+	},
+	{
+		"difficulty":"1",
+		"question":"In caso di problema meccanico, quale personaggio del TermoVerse \u00E8 il pi\u00F9 adatto ad essere chiamato?",
+		"answer_correct":"Carlo Attrezzi",
+		"answer_wrong_1":"Il Conte",
+		"answer_wrong_2":"Filippo",
+		"answer_wrong_3":"Pierfiglio Berluscane"
+	},
+	{
+		"difficulty":"2",
+		"question":"Su quale gioco \u00E8 nato il mito delle plepi?",
+		"answer_correct":"Ultimate Chicken Horse",
+		"answer_wrong_1":"Fall Guys",
+		"answer_wrong_2":"Speedrunners",
+		"answer_wrong_3":"Pummel Party"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama ufficialmente il gioco \"Prosciutto e melone\" di Pummel Party?",
+		"answer_correct":"Spooky Spikes",
+		"answer_wrong_1":"Speedy Sabers",
+		"answer_wrong_2":"Strategic Shockwave",
+		"answer_wrong_3":"Slippery Sprint"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa succede a chi arriva ultimo su Pummel Party?",
+		"answer_correct":"Finisce in cella",
+		"answer_wrong_1":"Vince",
+		"answer_wrong_2":"Finisce nello spazio",
+		"answer_wrong_3":"Mangiato da un mostro"
+	},
+	{
+		"difficulty":"2",
+		"question":"Di chi era la poltrona che somigliava ad una donna col burqa?",
+		"answer_correct":"Esprit",
+		"answer_wrong_1":"Mark",
+		"answer_wrong_2":"Moro",
+		"answer_wrong_3":"Lyezar"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi era il narratore della storia dell'omino della polmonite?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Corvo",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Moro"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale snack \u00E8 usato come censura dei personaggi nudi del TermoVerse?",
+		"answer_correct":"Snickers",
+		"answer_wrong_1":"Mars",
+		"answer_wrong_2":"Twix",
+		"answer_wrong_3":"Bounty"
+	},
+	{
+		"difficulty":"1",
+		"question":"In quale gioco \u00E8 apparso il personaggio Carmelina?",
+		"answer_correct":"Need For Drink",
+		"answer_wrong_1":"Who's Your Daddy",
+		"answer_wrong_2":"Speedrunners",
+		"answer_wrong_3":"BeamNG.Drive"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama il figlio di Who's Your Daddy secondo il TermoVerse?",
+		"answer_correct":"Mauro Calogero",
+		"answer_wrong_1":"Carmelina",
+		"answer_wrong_2":"Vincenzo Vettorio",
+		"answer_wrong_3":"Culetto Umido"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale famoso personaggio televisivo somiglia a Mikhail Viktor di Resident Evil 3?",
+		"answer_correct":"Claudio Bisio",
+		"answer_wrong_1":"Pippo Baudo",
+		"answer_wrong_2":"Valeria Marini",
+		"answer_wrong_3":"Ezio Greggio"
+	},
+	{
+		"difficulty":"2",
+		"question":"Per un refuso di Moro su Resident Evil 2, come ha cambiato nome il direttore della sottostazione?",
+		"answer_correct":"Dir. della sottrazione",
+		"answer_wrong_1":"Detrattore della sott.",
+		"answer_wrong_2":"Sottostazione del dir.",
+		"answer_wrong_3":"Dir. dello strozzatore"
+	},
+	{
+		"difficulty":"3",
+		"question":"Chi tra loro non fa parte dei fondatori di Hogwarts secondo Mark?",
+		"answer_correct":"Patty Pravo",
+		"answer_wrong_1":"Giovanna D'Arco",
+		"answer_wrong_2":"Gandhi",
+		"answer_wrong_3":"Antonella Clerici"
+	},
+	{
+		"difficulty":"2",
+		"question":"Chi di loro non ha mai partecipato ad un video di Worms al 2022?",
+		"answer_correct":"Yotobi",
+		"answer_wrong_1":"Ckibe",
+		"answer_wrong_2":"Luke",
+		"answer_wrong_3":"Corvo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi ha vinto la TermoLeague 2022?",
+		"answer_correct":"Trenino Eynus",
+		"answer_wrong_1":"TermoVisione",
+		"answer_wrong_2":"Achille L'Aureo",
+		"answer_wrong_3":"Zuppa Di Culo"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama il ciuffo di Lyezar?",
+		"answer_correct":"Paolo",
+		"answer_wrong_1":"Simone",
+		"answer_wrong_2":"Pippo",
+		"answer_wrong_3":"Ettore"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale strumento musicale ha il famoso teschio, protagonista di due emoticon della chat?",
+		"answer_correct":"Tromba",
+		"answer_wrong_1":"Chitarra",
+		"answer_wrong_2":"Violino",
+		"answer_wrong_3":"Flauto"
+	},
+	{
+		"difficulty":"2",
+		"question":"Chi \u00E8 stata la vittima che ha fatto poi nascere il mito del Maledetto Col Cappello Da Pirata?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Luke",
+		"answer_wrong_3":"Lyezar"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama l'autore del vangelo predicato da Mark su TTT?",
+		"answer_correct":"Nino Vangelo",
+		"answer_wrong_1":"Padre Pioli",
+		"answer_wrong_2":"Papa Mobile",
+		"answer_wrong_3":"TermoBibbio"
+	},
+	{
+		"difficulty":"3",
+		"question":"Cosa vinse Esprit in una ruota della fortuna quando and\u00F2 al TwitchCon del 2018?",
+		"answer_correct":"Un balletto",
+		"answer_wrong_1":"Il nulla",
+		"answer_wrong_2":"12 mesi di Turbo",
+		"answer_wrong_3":"Dei preservativi"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che materiale \u00E8 il badge per chi \u00E8 abbonato da almeno un anno nel canale dei Termosifoni?",
+		"answer_correct":"Bronzo",
+		"answer_wrong_1":"Argento",
+		"answer_wrong_2":"Oro",
+		"answer_wrong_3":"Cacca"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale tra queste caratteristiche \u00E8 presente nel gamepad del logo dei Termosifoni?",
+		"answer_correct":"Il D-Pad",
+		"answer_wrong_1":"Gli analogici",
+		"answer_wrong_2":"I tasti select e start",
+		"answer_wrong_3":"Il cavo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Prima di essere un gamepad, cosa era presente nel logo dei Termosifoni?",
+		"answer_correct":"Un termosifone di ghisa",
+		"answer_wrong_1":"Un joystick",
+		"answer_wrong_2":"Un joypad",
+		"answer_wrong_3":"Un caminetto"
+	},
+	{
+		"difficulty":"2",
+		"question":"Secondo degli archiviatori di Twitch, quale gioco \u00E8 stato mostrato in live per pi\u00F9 ore al 2023?",
+		"answer_correct":"Rainbow Six Siege",
+		"answer_wrong_1":"PUBG",
+		"answer_wrong_2":"Minecraft",
+		"answer_wrong_3":"Garry's Mod"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste affermazioni riguardo le primissime dirette di TTT \u00E8 falsa?",
+		"answer_correct":"Erano esclusive su YT",
+		"answer_wrong_1":"Lyezar e i pixelloni",
+		"answer_wrong_2":"Non c'erano webcam",
+		"answer_wrong_3":"Spesso vi era Yotobi"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come \u00E8 stato rinominato il ruolo di detective su TTT nelle live dei Termosifoni?",
+		"answer_correct":"Capo",
+		"answer_wrong_1":"Detective",
+		"answer_wrong_2":"Sium",
+		"answer_wrong_3":"Polizia"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa ha detto un personaggio del gioco quando il famoso treno di Half Life 2 \u00E8 arrivato a destinazione?",
+		"answer_correct":"Beh, fine del viaggio",
+		"answer_wrong_1":"Ciuf ciuf",
+		"answer_wrong_2":"Finalmente a destinazione",
+		"answer_wrong_3":"Siamo arrivati gente"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di questi calciatori creati da Mark \u00E8 il meno recente?",
+		"answer_correct":"Franciesco Toti",
+		"answer_wrong_1":"Adrian Mudand",
+		"answer_wrong_2":"Plinio Ronaldeynus",
+		"answer_wrong_3":"Durian Zapata"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il calciatore di KoRnFactory, caposaldo di ogni edizione di FIFA dal 2019?",
+		"answer_correct":"Kouta Sall",
+		"answer_wrong_1":"Valentino Santucci",
+		"answer_wrong_2":"George Russel",
+		"answer_wrong_3":"Dino Zoppo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il pinguino di Animal Crossing, tanto caro a Mark?",
+		"answer_correct":"Plinio",
+		"answer_wrong_1":"Carlo",
+		"answer_wrong_2":"Simone",
+		"answer_wrong_3":"Zuppa"
+	},
+	{
+		"difficulty":"2",
+		"question":"Su quale gioco Mark si \u00E8 autoproclamato re dei cagnolini?",
+		"answer_correct":"Human Fall Flat",
+		"answer_wrong_1":"Fall Guys",
+		"answer_wrong_2":"Pummel Party",
+		"answer_wrong_3":"Speedrunners"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi \u00E8 il pi\u00F9 giovane tra loro?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Luke",
+		"answer_wrong_3":"Lyezar"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quali di queste affermazioni su Mark \u00E8 falsa?",
+		"answer_correct":"Non ha mai la barba",
+		"answer_wrong_1":"Tifa Juventus",
+		"answer_wrong_2":"Porta gli occhiali",
+		"answer_wrong_3":"Ha 1 cartonato di Sheldon"
+	},
+	{
+		"difficulty":"1",
+		"question":"Lo si trova Il Gatto, famoso amico e collega dei Termosifoni",
+		"answer_correct":"Sul tubo",
+		"answer_wrong_1":"Sul tavolo",
+		"answer_wrong_2":"Sulla lettiera",
+		"answer_wrong_3":"Sul divano"
+	},
+	{
+		"difficulty":"3",
+		"question":"Come si chiama il gioco in isometrica per NES tanto amato da Moro da bambino?",
+		"answer_correct":"Solstice",
+		"answer_wrong_1":"Equinox",
+		"answer_wrong_2":"Colin Mcrae Rally",
+		"answer_wrong_3":"Sabrewulf"
+	},
+	{
+		"difficulty":"1",
+		"question":"In quale gioco Mark e Moro collaboravano per creare una strada per non far esplodere un veicolo?",
+		"answer_correct":"Can't Drive This",
+		"answer_wrong_1":"Colin Mcrae Rally",
+		"answer_wrong_2":"Speedrunners",
+		"answer_wrong_3":"Carmageddon"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi di loro porta gli occhiali?",
+		"answer_correct":"Tutti e tre",
+		"answer_wrong_1":"Lyezar",
+		"answer_wrong_2":"Mark",
+		"answer_wrong_3":"Moro"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama l'evento della community dove gli utenti, divisi in squadre, si sfidano in vari giochi free?",
+		"answer_correct":"Termolimpiadi",
+		"answer_wrong_1":"Termogiochi",
+		"answer_wrong_2":"Termondiali",
+		"answer_wrong_3":"Termochallenge"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale membro dei Termosifoni \u00E8 stato truccato nel 2018 durante un incontro del gruppo?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Corvo"
+	},
+	{
+		"difficulty":"1",
+		"question":"In quale sport Mark \u00E8 particolarmente esperto, tanto da aver quasi intrapreso una carriera professionistica?",
+		"answer_correct":"Basket",
+		"answer_wrong_1":"Badminton",
+		"answer_wrong_2":"Karting",
+		"answer_wrong_3":"Rugby"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale supereroe \u00E8 possibile associare maggiormente a Mark?",
+		"answer_correct":"Arrow",
+		"answer_wrong_1":"Lanterna verde",
+		"answer_wrong_2":"Spiderman",
+		"answer_wrong_3":"Batman"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama la squadra di Pro Club dei Termosifoni del 2022?",
+		"answer_correct":"Termosifoni F.C.",
+		"answer_wrong_1":"A.S. Termosifoni",
+		"answer_wrong_2":"Termosifoni Calcio",
+		"answer_wrong_3":"Termosifoni P.C."
+	},
+	{
+		"difficulty":"1",
+		"question":"Se volete far leggere una pagina del TermOraculo ai Termosifoni durante la diretta, cosa dovete fare?",
+		"answer_correct":"Usare i TermoSoldi",
+		"answer_wrong_1":"Donare soldi veri",
+		"answer_wrong_2":"Fare un abbonamento",
+		"answer_wrong_3":"Chiedere in chat"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 solitamente il premio dei bingo delle dirette natalizie?",
+		"answer_correct":"Il VIP permanente",
+		"answer_wrong_1":"Un abbonamento",
+		"answer_wrong_2":"Un gioco su InstantGaming",
+		"answer_wrong_3":"Il ban permanente"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale gioco \u00E8 nato il personaggio di Antonio Scrofa?",
+		"answer_correct":"FIFA",
+		"answer_wrong_1":"PUBG",
+		"answer_wrong_2":"Farming Simulator",
+		"answer_wrong_3":"The Binding Of Isaac"
+	},
+	{
+		"difficulty":"1",
+		"question":"Per cosa \u00E8 famoso il cangurotto dai Termosifoni?",
+		"answer_correct":"Ci hanno cagato sopra",
+		"answer_wrong_1":"\u00C8 giallo fluorescente",
+		"answer_wrong_2":"\u00C8 capocannoniere su FIFA",
+		"answer_wrong_3":"Moro ne ha un cartonato"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale personaggio \u00E8 nato da un refuso fatto da Mark nel gioco Farmer's Life?",
+		"answer_correct":"Casimiro Vivili",
+		"answer_wrong_1":"Aulico L'Idraulico",
+		"answer_wrong_2":"Il Sole Di Mark",
+		"answer_wrong_3":"Matteo Il Prete"
+	},
+	{
+		"difficulty":"1",
+		"question":"Durante quale gioco si \u00E8 presentato per la prima volta il Calabrone di Fermignano?",
+		"answer_correct":"Formula 1",
+		"answer_wrong_1":"FIFA",
+		"answer_wrong_2":"Just Chatting",
+		"answer_wrong_3":"Fortnite"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale numero di maglia ha spesso usato Liquidino Cacostronzi?",
+		"answer_correct":"23",
+		"answer_wrong_1":"69",
+		"answer_wrong_2":"10",
+		"answer_wrong_3":"22"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale gioco ha debuttato il Lupo Nudo?",
+		"answer_correct":"For The king",
+		"answer_wrong_1":"Speedrunners",
+		"answer_wrong_2":"Fortnite",
+		"answer_wrong_3":"Farming Simulator"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale giorno della settimana \u00E8 solitamente dedicato a una diretta senza gameplay?",
+		"answer_correct":"Domenica",
+		"answer_wrong_1":"Luned\u00EC",
+		"answer_wrong_2":"Gioved\u00EC",
+		"answer_wrong_3":"Venerd\u00EC"
+	},
+	{
+		"difficulty":"2",
+		"question":"In che anno ha debuttato Giovanni Cacalipanni?",
+		"answer_correct":"2022",
+		"answer_wrong_1":"2021",
+		"answer_wrong_2":"2019",
+		"answer_wrong_3":"2020"
+	},
+	{
+		"difficulty":"2",
+		"question":"Qual \u00E8 la fobia di Giovanni Cacalipanni?",
+		"answer_correct":"I fulmini",
+		"answer_wrong_1":"I ragni",
+		"answer_wrong_2":"Gli specchi",
+		"answer_wrong_3":"Le automobili"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi di loro non ha la patente per guidare l'automobile?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Corvo"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama il cestista creato da Mark per NBA 2K22?",
+		"answer_correct":"Kevin Durian",
+		"answer_wrong_1":"Kane Stro",
+		"answer_wrong_2":"Durian Zapata",
+		"answer_wrong_3":"Matteo la palla"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi ha posseduto un cartonato della Regina Elisabetta II?",
+		"answer_correct":"Moro",
+		"answer_wrong_1":"Mark",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Nessuno dei tre"
+	},
+	{
+		"difficulty":"2",
+		"question":"Con quale di questi nomi non \u00E8 conosciuta la Regina Elisabetta II dai Termosifoni?",
+		"answer_correct":"La mummia dell'ascensore",
+		"answer_wrong_1":"Principessa degli USA",
+		"answer_wrong_2":"Estrema Grinzosa",
+		"answer_wrong_3":"Regina Margherita"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale gioco spesso i Termosifoni esclamano \"Bruno!\"?",
+		"answer_correct":"Uno",
+		"answer_wrong_1":"PUBG",
+		"answer_wrong_2":"Formula 1",
+		"answer_wrong_3":"EuroTruck Simulator"
+	},
+	{
+		"difficulty":"1",
+		"question":"Secondo lo standard ufficiale di Tetris, di che forma \u00E8 il tetramino maledetto del pezzo verde?",
+		"answer_correct":"O",
+		"answer_wrong_1":"L",
+		"answer_wrong_2":"T",
+		"answer_wrong_3":"S"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi solitamente spruzza lo spray di Fofao durante una diretta di Trouble In Terrorist Town?",
+		"answer_correct":"Luke",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"KoRnFactory",
+		"answer_wrong_3":"Il Gatto"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste affermazioni \u00E8 errata nella emote dello Gnomo delle Feci",
+		"answer_correct":"Ha la cravatta",
+		"answer_wrong_1":"\u00C8 biondo",
+		"answer_wrong_2":"Ha la barba",
+		"answer_wrong_3":"Ha il cappello marrone"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi rappresenta la figura dello Gnomo Delle Feci?",
+		"answer_correct":"La chat",
+		"answer_wrong_1":"Gli spaventi di Moro",
+		"answer_wrong_2":"Mark palestrato",
+		"answer_wrong_3":"Un'espressione di Lyezar"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 la maglia dello Gnomo Delle Feci nella emote?",
+		"answer_correct":"Rossa",
+		"answer_wrong_1":"Marrone",
+		"answer_wrong_2":"Bianca",
+		"answer_wrong_3":"Nera"
+	},
+	{
+		"difficulty":"1",
+		"question":"Che origine ha il personaggio di Lyezar San?",
+		"answer_correct":"Una sua foto in Giappone",
+		"answer_wrong_1":"Un cartonato di Moro",
+		"answer_wrong_2":"Un refuso",
+		"answer_wrong_3":"Un bug di un gioco"
+	},
+	{
+		"difficulty":"7",
+		"question":"Il ClipTermoLe \u00E8 uno dei progetti della community dei Termosifoni. Quale fu la risposta del quiz numero zero?",
+		"answer_correct":"Geoguessr",
+		"answer_wrong_1":"Minecraft",
+		"answer_wrong_2":"FIFA 20",
+		"answer_wrong_3":"F1 2020"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di chi \u00E8 la faccia del Trenino Eynus?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Trenino Thomas",
+		"answer_wrong_3":"Il Sole Di Mark"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quali sono i colori principali del Trenino Eynus?",
+		"answer_correct":"Rosso e blu",
+		"answer_wrong_1":"Giallo e Viola",
+		"answer_wrong_2":"Bianco e Nero",
+		"answer_wrong_3":"Verde e nero"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 una nota storpiatura di Tutankhamon, diventato poi parte del TermoVerse?",
+		"answer_correct":"Tutancarlo",
+		"answer_wrong_1":"Tutancamion",
+		"answer_wrong_2":"Tutansium",
+		"answer_wrong_3":"Tutanstorto"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 il nome del signor Netcode, personaggio del TermoVerse e della TermoRumble?",
+		"answer_correct":"Pavel",
+		"answer_wrong_1":"Simone",
+		"answer_wrong_2":"Vincenzo",
+		"answer_wrong_3":"Achille"
+	},
+	{
+		"difficulty":"2",
+		"question":"Su quale gioco abbiamo potuto vedere sfidarsi due eserciti: i Trenini Eynus contro Pikachu?",
+		"answer_correct":"Ultimate Epic Battle Sim",
+		"answer_wrong_1":"Marbles On Stream",
+		"answer_wrong_2":"WWE 2K22",
+		"answer_wrong_3":"Tot. Accurate Battle Sim"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il fandom dei personaggi creati dai Termosifoni?",
+		"answer_correct":"TermoVerse",
+		"answer_wrong_1":"TermoRooster",
+		"answer_wrong_2":"TermoRumble",
+		"answer_wrong_3":"TermoNaggi"
+	},
+	{
+		"difficulty":"5",
+		"question":"Nella live di debutto di Hun Sacco, che gioco si stava mostrando prima del contatto con Esprit dal TwitchCon?",
+		"answer_correct":"Dead By Daylight",
+		"answer_wrong_1":"Hunt",
+		"answer_wrong_2":"Don't Starve",
+		"answer_wrong_3":"EuroTruck Simulator"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama l'emote che vomita",
+		"answer_correct":"TermoBleh",
+		"answer_wrong_1":"TermoBloBlo",
+		"answer_wrong_2":"TermoVomit",
+		"answer_wrong_3":"TermoSchif"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 il pacco regalo dell'emote TermoGift?",
+		"answer_correct":"Viola / Rosa",
+		"answer_wrong_1":"Oro lucido",
+		"answer_wrong_2":"Argento lucido",
+		"answer_wrong_3":"Beige / Bianco"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 il testo della scritta Non Muore della famosa emote?",
+		"answer_correct":"Gialla",
+		"answer_wrong_1":"Verde",
+		"answer_wrong_2":"Blu",
+		"answer_wrong_3":"Viola"
+	},
+	{
+		"difficulty":"1",
+		"question":"In quale di queste emote il termosifone ha un colore diverso dagli altri?",
+		"answer_correct":"TermoKappa",
+		"answer_wrong_1":"TermoGasm",
+		"answer_wrong_2":"TermoLul",
+		"answer_wrong_3":"TermoSing"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale scritta \u00E8 presene nel cartello dell'emote TermoGG?",
+		"answer_correct":"GG",
+		"answer_wrong_1":"Daje",
+		"answer_wrong_2":"Gud",
+		"answer_wrong_3":"OK"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quali di questi accessori non \u00E8 presente in alcuna versione dell'emote TermoLord?",
+		"answer_correct":"Coppa",
+		"answer_wrong_1":"Bicchiere",
+		"answer_wrong_2":"Scettro",
+		"answer_wrong_3":"Spada"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste emote non presentano una faccia arrossata?",
+		"answer_correct":"TermoLove",
+		"answer_wrong_1":"TermoRage",
+		"answer_wrong_2":"TermoBlush",
+		"answer_wrong_3":" TermoGasm"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 la scia dell'emote TermoRaid?",
+		"answer_correct":"Arcobaleno",
+		"answer_wrong_1":"Viola e gialla",
+		"answer_wrong_2":"Viola e rosa",
+		"answer_wrong_3":"Marrone"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 il pompon dell'emote TermoCheer?",
+		"answer_correct":"Rosso",
+		"answer_wrong_1":"Viola",
+		"answer_wrong_2":"Bianco",
+		"answer_wrong_3":"Oro"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa ha in mano il termosifone nell'emote TermoSbin?",
+		"answer_correct":"Un volante",
+		"answer_wrong_1":"La leva del cambio",
+		"answer_wrong_2":"Un timone",
+		"answer_wrong_3":"Una macchinina"
+	},
+	{
+		"difficulty":"2",
+		"question":"Da dove appare TermoVisione nella sua emote animata?",
+		"answer_correct":"Da sinistra",
+		"answer_wrong_1":"Da destra",
+		"answer_wrong_2":"Da sopra",
+		"answer_wrong_3":"Da sotto"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste emote non mostra lettere nell'immagine?",
+		"answer_correct":"TermoKappa",
+		"answer_wrong_1":"TermoRIP",
+		"answer_wrong_2":"TermoGnomo",
+		"answer_wrong_3":"TermoCiao"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste emote presenta una variante in base al tier di abbonamento?",
+		"answer_correct":"TermoLord",
+		"answer_wrong_1":"TermoCiao",
+		"answer_wrong_2":"TermoGnomo",
+		"answer_wrong_3":"TermoDurian"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale carattere \u00E8 presente nell'immagine dell'emote TermoWOW?",
+		"answer_correct":"Punto esclamativo",
+		"answer_wrong_1":"Punto di domanda",
+		"answer_wrong_2":"La lettera W",
+		"answer_wrong_3":"L'asterisco"
+	},
+	{
+		"difficulty":"1",
+		"question":"In che modo \u00E8 animata l'emote TermoMonkas?",
+		"answer_correct":"Trema",
+		"answer_wrong_1":"Scorre lateralmente",
+		"answer_wrong_2":"Cambia colore",
+		"answer_wrong_3":"Lampeggia"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 il colore predominante del badge riservato all'account dello streamer nella chat di Twitch?",
+		"answer_correct":"Rosso",
+		"answer_wrong_1":"Viola",
+		"answer_wrong_2":"Verde",
+		"answer_wrong_3":"Grigio"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa ha in testa il termosifone nell'emote TermoJam?",
+		"answer_correct":"Delle cuffie",
+		"answer_wrong_1":"Una parrucca",
+		"answer_wrong_2":"Una fascia elastica",
+		"answer_wrong_3":"Niente"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste cose del canale Discord dei Termosifoni \u00E8 falsa?",
+		"answer_correct":"\u00C8 solo per abbonati",
+		"answer_wrong_1":"Ci sono sezioni per i GDR",
+		"answer_wrong_2":"C'\u00E8 un canale per i meme",
+		"answer_wrong_3":"Ci sono i Termosifoni"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale gioco \u00E8 nato il personaggio di Filippo?",
+		"answer_correct":"Viscera Cleanup",
+		"answer_wrong_1":"WWE 2K22",
+		"answer_wrong_2":"Trouble In Terrorist Town",
+		"answer_wrong_3":"Fortnite"
+	},
+	{
+		"difficulty":"1",
+		"question":"Che ruolo ha Filippo su Viscera?",
+		"answer_correct":"Cadavere",
+		"answer_wrong_1":"Datore di lavoro",
+		"answer_wrong_2":"Boss finale",
+		"answer_wrong_3":"Aiuta a pulire"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale gioco Mark aveva un pappagallo di nome Fece?",
+		"answer_correct":"Minecraft",
+		"answer_wrong_1":"Farming Simulator",
+		"answer_wrong_2":"EuroTruck Simulator",
+		"answer_wrong_3":"Trouble In Terrorist Town"
+	},
+	{
+		"difficulty":"2",
+		"question":"I Termosifoni come hanno battezzato i Barney di Half Life?",
+		"answer_correct":"Piergiorgio",
+		"answer_wrong_1":"Gennaro",
+		"answer_wrong_2":"Ettore",
+		"answer_wrong_3":"Giovannino"
+	},
+	{
+		"difficulty":"2",
+		"question":"A cosa si ispirano i nomi dei vermi di Worms di Lyezar?",
+		"answer_correct":"Personaggi di Fantozzi",
+		"answer_wrong_1":"Personaggi di Star Wars",
+		"answer_wrong_2":"Personaggi di Anime",
+		"answer_wrong_3":"Persone IRL Giapponesi"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste caratteristiche non sono presenti nel personaggio del TermOraculo su WWE 2K22?",
+		"answer_correct":"Ha gli occhi neri",
+		"answer_wrong_1":"Ha le natiche in vista",
+		"answer_wrong_2":"Ha il volto bianco",
+		"answer_wrong_3":"Ha il corpo viola"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il programma che spesso gli streamer - inclusi i Termosifoni - usano per streammare?",
+		"answer_correct":"OBS",
+		"answer_wrong_1":"OSB",
+		"answer_wrong_2":"OBSS",
+		"answer_wrong_3":"OSS"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa ha scritto Aulico L'Idraulico sul suo cappello in WWE 2K22?",
+		"answer_correct":"Aulico",
+		"answer_wrong_1":"Idraulico",
+		"answer_wrong_2":"Water fix",
+		"answer_wrong_3":"Sex"
+	},
+	{
+		"difficulty":"2",
+		"question":"Che icona presenta il logo del ClipTermoLe?",
+		"answer_correct":"Fiamma",
+		"answer_wrong_1":"Termosifone",
+		"answer_wrong_2":"Gamepad",
+		"answer_wrong_3":"Ciak"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quali di queste affermazioni sul modello di Pierfiglio Berluscane di WWE 2K22 \u00E8 falsa?",
+		"answer_correct":"Ha un mantello",
+		"answer_wrong_1":"Ha la sigla sulla giacca",
+		"answer_wrong_2":"Ha la lingua di fuori",
+		"answer_wrong_3":"Sembra un pastore tedesco"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 il vestito di TermoVisione in WWE 2K22?",
+		"answer_correct":"Verde e gialla",
+		"answer_wrong_1":"Rosso e blu",
+		"answer_wrong_2":"Non indossa nulla",
+		"answer_wrong_3":"Bianco"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 la tenuta di Michael Josas in WWE 2K22?",
+		"answer_correct":"Rossa",
+		"answer_wrong_1":"Viola",
+		"answer_wrong_2":"Gialla",
+		"answer_wrong_3":"Marrone"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste affermazioni sul modello di Casimiro Vivili sul ring di WWE 2K22 \u00E8 vera?",
+		"answer_correct":"Ha attrezzi in cintura",
+		"answer_wrong_1":"Ha gli occhiali da sole",
+		"answer_wrong_2":"Ha dei stivali marroni",
+		"answer_wrong_3":"Ha un cappello"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa ha in mano Il Conte quando fa la sua entrata completa sul Ring di WWE 2K22?",
+		"answer_correct":"Un bastone da passeggio",
+		"answer_wrong_1":"Un mitragliatore",
+		"answer_wrong_2":"Uno scettro",
+		"answer_wrong_3":"Una mazza da baseball"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa fa la Contessa nella sua entrata completa sul ring di WWE 2K22?",
+		"answer_correct":"La danza del ventre",
+		"answer_wrong_1":"Balla Gangnam Style",
+		"answer_wrong_2":"Fa la lap dance",
+		"answer_wrong_3":"Rotola per la passerella"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa rappresenta Wioster nel TermoVerse?",
+		"answer_correct":"\u00C8 un nemico di Moro",
+		"answer_wrong_1":"L'argomento cibo",
+		"answer_wrong_2":"Sono i bannati della chat",
+		"answer_wrong_3":"Sono i bot della chat"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama il bot con pi\u00F9 messaggi nella chat dei Termosifoni secondo Streamelements al 2022?",
+		"answer_correct":"Moobot",
+		"answer_wrong_1":"Soundalerts",
+		"answer_wrong_2":"Nightbot",
+		"answer_wrong_3":"BetterTTV"
+	},
+	{
+		"difficulty":"3",
+		"question":"In quale servizio \u00E8 caricata l'emote WEEWOO?",
+		"answer_correct":"7TV",
+		"answer_wrong_1":"BetterTTV",
+		"answer_wrong_2":"FrankerFaceZ",
+		"answer_wrong_3":"Emoticon di Twitch"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 la sirena nell'emote animata WEEWOO?",
+		"answer_correct":"Rossa",
+		"answer_wrong_1":"Viola",
+		"answer_wrong_2":"Gialla",
+		"answer_wrong_3":"Azzurra"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama la rana, spesso protagonista delle emote nella chat Twitch?",
+		"answer_correct":"Pepe",
+		"answer_wrong_1":"Pippo",
+		"answer_wrong_2":"Pype",
+		"answer_wrong_3":"Frogg"
+	},
+	{
+		"difficulty":"1",
+		"question":"Che espressione e emoji si usa per giustificare una sconfitta o avvalorare una propria tesi errata?",
+		"answer_correct":"Copium",
+		"answer_wrong_1":"NotLikeThis",
+		"answer_wrong_2":"Stonks",
+		"answer_wrong_3":"Sbin"
+	},
+	{
+		"difficulty":"3",
+		"question":"Come si chiama il calciatore protagonista di una emote animata dove lui cammina con un sorrisino?",
+		"answer_correct":"Fabio",
+		"answer_wrong_1":"Paolo",
+		"answer_wrong_2":"Pippo",
+		"answer_wrong_3":"Lorenzo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cos'ha in mano Moro nell'emote TermoGun?",
+		"answer_correct":"Una pistola",
+		"answer_wrong_1":"Un mitragliatore",
+		"answer_wrong_2":"Un cecchino",
+		"answer_wrong_3":"Un wustel"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cos'ha in mano il protagonista dell'emote TermoChist",
+		"answer_correct":"Uno snickers",
+		"answer_wrong_1":"Una faccia",
+		"answer_wrong_2":"Pesce",
+		"answer_wrong_3":"Termosifone"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste emote non \u00E8 visibile senza installare estensioni?",
+		"answer_correct":"TermoInduc",
+		"answer_wrong_1":"TermoDurian",
+		"answer_wrong_2":"TermoGnomo",
+		"answer_wrong_3":"TermoYezar"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama la mappa di TTT dove \u00E8 nato il mito del pacchettino di Mark?",
+		"answer_correct":"Christmas Town",
+		"answer_wrong_1":"Bungalows",
+		"answer_wrong_2":"Island Christmas Night",
+		"answer_wrong_3":"Terrorception"
+	},
+	{
+		"difficulty":"2",
+		"question":"In quale mappa di TTT \u00E8 presente la famosa vasca di sugo",
+		"answer_correct":"Filmstudio",
+		"answer_wrong_1":"Ziba Tower",
+		"answer_wrong_2":"Terminal",
+		"answer_wrong_3":"Bungalows"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama lo spettacolo di Karim Musa parodizzato in un video Youtube dei TermosifonI?",
+		"answer_correct":"Peli Pubblici",
+		"answer_wrong_1":"Mostarda",
+		"answer_wrong_2":"Stendini",
+		"answer_wrong_3":"Standin Uovation"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale tematica presentatano i giochi nella 12 ore Amarcord?",
+		"answer_correct":"Giochi storici delle live",
+		"answer_wrong_1":"Giochi usciti pre-2000",
+		"answer_wrong_2":"Tutti indossano una barba",
+		"answer_wrong_3":"Visionare film di Fellini"
+	},
+	{
+		"difficulty":"2",
+		"question":"Su quale edizione \u00E8 stata fatta la prima diretta, solo per abbonati, su Formula 1?",
+		"answer_correct":"F1 2019",
+		"answer_wrong_1":"F1 2018",
+		"answer_wrong_2":"F1 1997",
+		"answer_wrong_3":"F1 2020"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale videogioco \u00E8 stato il tema di diverse partite di Uno?",
+		"answer_correct":"Rabbids",
+		"answer_wrong_1":"FIFA",
+		"answer_wrong_2":"Speedrunners",
+		"answer_wrong_3":"Worms"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama la mappa di TTT spesso usata come predefinita al lancio del server?",
+		"answer_correct":"Aztec",
+		"answer_wrong_1":"Bungalows",
+		"answer_wrong_2":"Rooftops",
+		"answer_wrong_3":"Teenroom"
+	},
+	{
+		"difficulty":"3",
+		"question":"Sul ClipTermoLe, al primo tentativo errato, che aiuto otteniamo?",
+		"answer_correct":"Data della clip",
+		"answer_wrong_1":"Titolo della clip",
+		"answer_wrong_2":"Ore di gioco totali",
+		"answer_wrong_3":"Dev del gioco"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi ha vinto la classifica piloti sul gioco F1 2022?",
+		"answer_correct":"KoRnFactory",
+		"answer_wrong_1":"Veertien",
+		"answer_wrong_2":"Vector",
+		"answer_wrong_3":"Lyezar"
+	},
+	{
+		"difficulty":"2",
+		"question":"Qual \u00E8 la famosa marca di trattori spesso pronunciata dai Termosifoni?",
+		"answer_correct":"Bruder",
+		"answer_wrong_1":"Spingen",
+		"answer_wrong_2":"Stincolt",
+		"answer_wrong_3":"Lamborghini"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiamava il canale Youtube creato da Il Gatto e i Termosifoni dove commentavano video del web?",
+		"answer_correct":"Commentazioni dei video",
+		"answer_wrong_1":"Brainstormers",
+		"answer_wrong_2":"TermoGatto",
+		"answer_wrong_3":"La Valvola Di Spurgo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il brano a tema Termosifoni creato da Jas e usato come alert delle donazioni?",
+		"answer_correct":"Siamo 4,5,6",
+		"answer_wrong_1":"Soffiteris",
+		"answer_wrong_2":"T.E.R.M.O.S.I.F.O.N.I",
+		"answer_wrong_3":"Come Manu"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste varianti di sanitari sono da vietare per legge secondo Moro?",
+		"answer_correct":"Quelli Sospesi",
+		"answer_wrong_1":"Quelli in ceramica",
+		"answer_wrong_2":"Quelli blu",
+		"answer_wrong_3":"Quelli in bagno"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi fu a leggere la famosa domanda \"Caff\u00E8 o T\u00E8\" a cui sembr\u00F2 rispondere \"Tette\"?",
+		"answer_correct":"Luke",
+		"answer_wrong_1":"Mark",
+		"answer_wrong_2":"Moro",
+		"answer_wrong_3":"Lyezar"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama una famosa musica degli unboxing, detta anche pi pi pippiriri?",
+		"answer_correct":"Spring in my step",
+		"answer_wrong_1":"Freedom",
+		"answer_wrong_2":"Can You Feel My Heart",
+		"answer_wrong_3":"Forecast"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa rispose Alexa ad una richiesta di massaggio da parte di Moro?",
+		"answer_correct":"Massaggio Erotico",
+		"answer_wrong_1":"Certo, subito",
+		"answer_wrong_2":"Suca",
+		"answer_wrong_3":"Porco maleducato"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi canta la canzoncina delle Metafore di Karim Musa nei video di IMDT?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Yotobi"
+	},
+	{
+		"difficulty":"1",
+		"question":"Secondo una regola non scritta, a quale minuto \u00E8 possibile iniziare falli da cartellino rosso su FIFA?",
+		"answer_correct":"85",
+		"answer_wrong_1":"45",
+		"answer_wrong_2":"10",
+		"answer_wrong_3":"90"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi era famoso per caricare foto di s\u00E9 stesso palestrato o in canotta su Instagram?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Luke"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiamano i vermi di Esprit su Worms?",
+		"answer_correct":"Povosini",
+		"answer_wrong_1":"Zanotti",
+		"answer_wrong_2":"Zanichelli",
+		"answer_wrong_3":"Mauri"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi fu a marcare il famosissimo gol rotolone?",
+		"answer_correct":"Moro",
+		"answer_wrong_1":"Mark",
+		"answer_wrong_2":"Veertien",
+		"answer_wrong_3":"Un bot"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il gioco simil Tetris con la gravit\u00E0 non molto apprezzato da Mark?",
+		"answer_correct":"Tricky Towers",
+		"answer_wrong_1":"Tetris 99",
+		"answer_wrong_2":"Pummel Party",
+		"answer_wrong_3":"Gravity Rush"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si trasforma il Journey Gamer di Gatto quando in presenza di Mark?",
+		"answer_correct":"Journey Marco",
+		"answer_wrong_1":"Journey Arrow",
+		"answer_wrong_2":"Journey Monza",
+		"answer_wrong_3":"I Marco Sul Tubo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa appare su Garry's Mod quando uno non scarica bene tutti gli oggetti necessari?",
+		"answer_correct":"Appare un Error Gigante",
+		"answer_wrong_1":"I colori sono invertiti",
+		"answer_wrong_2":"Crasha tutto l'O.S.",
+		"answer_wrong_3":"Un popup fisso a schermo"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quanti anni aveva Moro il 1 Gennaio 2022?",
+		"answer_correct":"29",
+		"answer_wrong_1":"28",
+		"answer_wrong_2":"30",
+		"answer_wrong_3":"27"
+	},
+	{
+		"difficulty":"4",
+		"question":"Che data riporta il primo video dei Termosifoni pubblicato su TikTok?",
+		"answer_correct":"Marzo 2021",
+		"answer_wrong_1":"Maggio 2021",
+		"answer_wrong_2":"Giugno 2021",
+		"answer_wrong_3":"Aprile 2021"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi, per un traguardo del numero di abbonati, ha distrutto una statua LEGO in diretta?",
+		"answer_correct":"Lyezar",
+		"answer_wrong_1":"Mark",
+		"answer_wrong_2":"Moro",
+		"answer_wrong_3":"Luke"
+	},
+	{
+		"difficulty":"2",
+		"question":"Giocando quale serie \u00E8 stato incontrato il personaggio Wioster?",
+		"answer_correct":"Sniper Elite",
+		"answer_wrong_1":"Battlefield",
+		"answer_wrong_2":"COD",
+		"answer_wrong_3":"Medal Of Honor"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale sito ha rimosso la prima edizione della TermoVerse Wiki? (Vergogna)",
+		"answer_correct":"Fandom",
+		"answer_wrong_1":"Wikipedia",
+		"answer_wrong_2":"Miraheze",
+		"answer_wrong_3":"Discord"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale anime viene spesso citato da Mark dei Termosifoni?",
+		"answer_correct":"One Piece",
+		"answer_wrong_1":"Full Metal Alchemist",
+		"answer_wrong_2":"Evangelion",
+		"answer_wrong_3":"Dragon Ball"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale strumento musicale possiede il Lupo Nudo?",
+		"answer_correct":"Liuto",
+		"answer_wrong_1":"Violino",
+		"answer_wrong_2":"Flauto",
+		"answer_wrong_3":"Batteria"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale gioco \u00E8 il protagonista del primo video dei Termosifoni su TikTok?",
+		"answer_correct":"Chi Vuol Ess. Milionario",
+		"answer_wrong_1":"Minecraft",
+		"answer_wrong_2":"Cooking Simulator",
+		"answer_wrong_3":"Who's Your Daddy"
+	},
+	{
+		"difficulty":"2",
+		"question":"Chi ha creato la giocatrice Annabella Minghiella su FIFA 22?",
+		"answer_correct":"Luke",
+		"answer_wrong_1":"Veertien",
+		"answer_wrong_2":"Vector",
+		"answer_wrong_3":"Lyezar"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quali di queste affermazioni su Gas Station Simulator \u00E8 falsa?",
+		"answer_correct":"Puoi solo fare benzina",
+		"answer_wrong_1":"Uno somiglia a Elon Musk",
+		"answer_wrong_2":"Un Ufo resetta tutto",
+		"answer_wrong_3":"Puoi verniciare il luogo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Una clip \u00E8 diventata famosa perch\u00E9 vedeva Esprit mangiare una grande quantit\u00E0 di cosa?",
+		"answer_correct":"Insalata",
+		"answer_wrong_1":"Pane",
+		"answer_wrong_2":"Cipolle",
+		"answer_wrong_3":"Durian"
+	},
+	{
+		"difficulty":"1",
+		"question":"In quale gioco non vi \u00E8 stato un Plinio famoso?",
+		"answer_correct":"Farming Simulator",
+		"answer_wrong_1":"FIFA",
+		"answer_wrong_2":"Animal Crossing",
+		"answer_wrong_3":"WWE"
+	},
+	{
+		"difficulty":"1",
+		"question":"Dov'\u00E8 ambientato il video sulla vera storia dei Termosifoni?",
+		"answer_correct":"Esselunga",
+		"answer_wrong_1":"TwitchCon",
+		"answer_wrong_2":"Luna",
+		"answer_wrong_3":"Minecraft"
+	},
+	{
+		"difficulty":"7",
+		"question":"Secondo la descrizione del video TikTok su Ready Or Not dove Lino esplode, quanto costa il corso rapido di incursione?",
+		"answer_correct":"1,99",
+		"answer_wrong_1":"0,99",
+		"answer_wrong_2":"6,99",
+		"answer_wrong_3":"9,99"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il personaggio del TermoVerse che pu\u00F2 chiudere i canali Twitch per infrazioni?",
+		"answer_correct":"Lello Finanza",
+		"answer_wrong_1":"Il Conte",
+		"answer_wrong_2":"Piergiorgio",
+		"answer_wrong_3":"Carlo Attrezzi"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale di queste affermazioni su Nicchio Che Sticchio \u00E8 falsa?",
+		"answer_correct":"\u00C8 un guardalinee",
+		"answer_wrong_1":"La madre lo chiama Lorenzo",
+		"answer_wrong_2":"\u00C8 nel giro della droga",
+		"answer_wrong_3":"\u00C8 agli arresti domicliari"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale gioco \u00E8 stato nominato per la prima volta Thor Il Dio Del Porn?",
+		"answer_correct":"Trials",
+		"answer_wrong_1":"TTT",
+		"answer_wrong_2":"Golf With Your Friends",
+		"answer_wrong_3":"FIFA"
+	},
+	{
+		"difficulty":"3",
+		"question":"Chi \u00E8 stato il primo lottatore della storia della TermoRumble ad essere eliminato?",
+		"answer_correct":"Michael Josas",
+		"answer_wrong_1":"Yezar",
+		"answer_wrong_2":"Achille L'Aureo",
+		"answer_wrong_3":"Lyezar San"
+	},
+	{
+		"difficulty":"1",
+		"question":"A partire dal 1 settembre 2022, quanto durano ufficialmente le live mattutine dal luned\u00EC al venerd\u00EC?",
+		"answer_correct":"3 ore",
+		"answer_wrong_1":"2 ore",
+		"answer_wrong_2":"1 ora",
+		"answer_wrong_3":"4 ore"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi non \u00E8 un colore predominante del costume di wrestling di Corvo?",
+		"answer_correct":"Rosso",
+		"answer_wrong_1":"Bianco",
+		"answer_wrong_2":"Nero",
+		"answer_wrong_3":"Grigio"
+	},
+	{
+		"difficulty":"1",
+		"question":"Nella Smorfia Termosifonica, a cosa corrisponde il numero 3?",
+		"answer_correct":"I Piedi Pari",
+		"answer_wrong_1":"I Tarzanelli",
+		"answer_wrong_2":"Iginio Massacri",
+		"answer_wrong_3":"Le gambe delle donne"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quali famosi biscotti sono stati creati nelle live dei Termosifoni?",
+		"answer_correct":"Scorreggiotti",
+		"answer_wrong_1":"Cagottis",
+		"answer_wrong_2":"Pan Di Pene",
+		"answer_wrong_3":"I rigatoni al rag\u00F9"
+	},
+	{
+		"difficulty":"7",
+		"question":"Chi canta il brano \"La ficcanaso\", brano della donazione da 6 euro e 90 centesimi?",
+		"answer_correct":"Sabrina Musiani",
+		"answer_wrong_1":"Morgana Giovannetti",
+		"answer_wrong_2":"Arisa",
+		"answer_wrong_3":"Ambra Lo Faro"
+	},
+	{
+		"difficulty":"1",
+		"question":"Donando quale cifra sar\u00E0 possibile ascoltare \"Questa \u00E8 terra da rose\"?",
+		"answer_correct":"2 euro e 30 centesimi",
+		"answer_wrong_1":"5 euro e 0 centesimi",
+		"answer_wrong_2":"7 euro e 9 centesimi",
+		"answer_wrong_3":"8 euro e 1 centesimo"
+	},
+	{
+		"difficulty":"2",
+		"question":"Da dove deriva il suono della donazione \"Questa \u00E8 terra da rose\"?",
+		"answer_correct":"Love Bugs",
+		"answer_wrong_1":"Fantozzi",
+		"answer_wrong_2":"Il Mammo",
+		"answer_wrong_3":"Pubblicit\u00E0 detersivo Dash"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste donazioni non sono presenti nella lista dei Termosifoni?",
+		"answer_correct":"Like 1999",
+		"answer_wrong_1":"50 Special",
+		"answer_wrong_2":"5 Euro Di Mancia",
+		"answer_wrong_3":"Ohi Maria"
+	},
+	{
+		"difficulty":"1",
+		"question":"Dov'\u00E8 andato Nico, personaggio di cui si canta nella donazione da 8 euro e 76?",
+		"answer_correct":"In Giamaica",
+		"answer_wrong_1":"In Giappone",
+		"answer_wrong_2":"In Gabon",
+		"answer_wrong_3":"In Germania"
+	},
+	{
+		"difficulty":"1",
+		"question":"Donando dei bit tramite una estensione durante le dirette di FIFA, cosa sar\u00E0 possibile ascolare?",
+		"answer_correct":"Dei cori da stadio",
+		"answer_wrong_1":"Un peto con l'eco",
+		"answer_wrong_2":"Sandro Piccinini",
+		"answer_wrong_3":"La Garra Charrua"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste cose \u00E8 permesso nella chat dei Termosifoni",
+		"answer_correct":"Usare le emote",
+		"answer_wrong_1":"Bestemmiare",
+		"answer_wrong_2":"Spoilerare",
+		"answer_wrong_3":"Linkare Youtube"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale variante del Cha cha cha ha creato Mark?",
+		"answer_correct":"Di Garibaldi",
+		"answer_wrong_1":"Fluido",
+		"answer_wrong_2":"Con le mani nel culo",
+		"answer_wrong_3":"Senza piedi"
+	},
+	{
+		"difficulty":"1",
+		"question":"In cosa consiste la benedizione di Mark su TTT?",
+		"answer_correct":"Oggetti in testa",
+		"answer_wrong_1":"Un passo del Vangelo",
+		"answer_wrong_2":"Colpi di arma sui piedi",
+		"answer_wrong_3":"Saltare da altezze"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 il mestiere di Esprit nella Vera Storia Dei Termosifoni?",
+		"answer_correct":"La S",
+		"answer_wrong_1":"Il commesso",
+		"answer_wrong_2":"Il parcheggiatore",
+		"answer_wrong_3":"Il merluzzo"
+	},
+	{
+		"difficulty":"2",
+		"question":"Di cosa trattava l'evento calcistico narrato erroneamente da Mark durante una live su Golf With Your Friends?",
+		"answer_correct":"Combattere i bambini",
+		"answer_wrong_1":"Combattere le donne",
+		"answer_wrong_2":"Combattere i razzisti",
+		"answer_wrong_3":"Combattere lo sport"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quanto offr\u00EC Esprit ad un megalodonte su Sea Of Thieves per lasciar stare la loro barca?",
+		"answer_correct":"5 euro",
+		"answer_wrong_1":"10 euro",
+		"answer_wrong_2":"100 euro",
+		"answer_wrong_3":"1 euro"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama la squadra avversaria del Team Maliali?",
+		"answer_correct":"Team Culoni",
+		"answer_wrong_1":"Team Scemi",
+		"answer_wrong_2":"Team Asinelli",
+		"answer_wrong_3":"Team Angio"
+	},
+	{
+		"difficulty":"1",
+		"question":"Da quale simbolo sono spesso preceduti i comandi nella chat dei Termos?",
+		"answer_correct":"Punto esclamativo",
+		"answer_wrong_1":"Cancelletto",
+		"answer_wrong_2":"Slash",
+		"answer_wrong_3":"Backslash"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 il secondo nome di Gatto, amico con cui spesso i Termosifoni collaborano?",
+		"answer_correct":"Giuliano",
+		"answer_wrong_1":"Giuseppe",
+		"answer_wrong_2":"Gatto",
+		"answer_wrong_3":"Saverio"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi sono i due moderatori chiamati Fabrizio e Federico?",
+		"answer_correct":"Corvo e KoRnFactory",
+		"answer_wrong_1":"Corvo e Vector",
+		"answer_wrong_2":"Veertien e Vector",
+		"answer_wrong_3":"KoRnFactory e Veertien"
+	},
+	{
+		"difficulty":"1",
+		"question":"In quale provincia si trova Fermignano?",
+		"answer_correct":"Pesaro e Urbino",
+		"answer_wrong_1":"Ancona",
+		"answer_wrong_2":"Rimini",
+		"answer_wrong_3":"Arezzo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Ogni circa quanto bisogna rinnovare manualmente l'abbomanento fatto con Twitch Prime?",
+		"answer_correct":"Un mese",
+		"answer_wrong_1":"Una settimana",
+		"answer_wrong_2":"Un anno",
+		"answer_wrong_3":"Tre mesi"
+	},
+	{
+		"difficulty":"3",
+		"question":"Come si chiama l'amica di Napoli di Gandhi, conosciuta da Moro in una live notturna?",
+		"answer_correct":"Elena Coscia",
+		"answer_wrong_1":"Anna Elegante",
+		"answer_wrong_2":"Ilary Blasi",
+		"answer_wrong_3":"Maria Spalla"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste affermazioni sul gioco Together BnB fatto in un Moro By Night \u00E8 falsa",
+		"answer_correct":"Non vi alcun BnB",
+		"answer_wrong_1":"Esiste una versione XXX",
+		"answer_wrong_2":"Quest con i fireworks",
+		"answer_wrong_3":"Hai un'arma da fuoco"
+	},
+	{
+		"difficulty":"1",
+		"question":"In quale live vi \u00E8 stato un watch party di James May Our Man In Italy?",
+		"answer_correct":"Lyezar On Air",
+		"answer_wrong_1":"Domenica Chill",
+		"answer_wrong_2":"Moro By Night",
+		"answer_wrong_3":"Marked\u00EC"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quali di questi calciatori ha fatto da portiere su FIFA?",
+		"answer_correct":"Donna Rum",
+		"answer_wrong_1":"Nakata Pecchia",
+		"answer_wrong_2":"Joe Pino",
+		"answer_wrong_3":"Momete Nkoulou"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore ha i capelli la calciatrice Donna Rum su FIFA 22?",
+		"answer_correct":"Blu",
+		"answer_wrong_1":"Biondi",
+		"answer_wrong_2":"Rossi",
+		"answer_wrong_3":"Verdi"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale numero di maglia ha usato Donna Rum su FIFA 22?",
+		"answer_correct":"75",
+		"answer_wrong_1":"10",
+		"answer_wrong_2":"23",
+		"answer_wrong_3":"51"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale arma su TTT provoca un massiccio contraccolpo senza fare danni immediati?",
+		"answer_correct":"Discobombulator",
+		"answer_wrong_1":"Magneto Stick",
+		"answer_wrong_2":"Light Saber",
+		"answer_wrong_3":"Smoke Granade"
+	},
+	{
+		"difficulty":"3",
+		"question":"Come si chiama il barattolo virtuale dove finiscono le donazioni fatte ai Termosifoni",
+		"answer_correct":"TermoMance",
+		"answer_wrong_1":"TermoBanca",
+		"answer_wrong_2":"TermoBidone",
+		"answer_wrong_3":"TermoWallet"
+	},
+	{
+		"difficulty":"1",
+		"question":"Al 2022, qual \u00E8 l'ammontare minimo per le donazioni, escludendo i bit?",
+		"answer_correct":"1 euro e 50",
+		"answer_wrong_1":"1 euro",
+		"answer_wrong_2":"2 euro",
+		"answer_wrong_3":"50 centesimi"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama scherzosamente la sedia di Vector?",
+		"answer_correct":"Gandhi",
+		"answer_wrong_1":"Cacca",
+		"answer_wrong_2":"Elettrica",
+		"answer_wrong_3":"Calabrese"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale numero \u00E8 presente nel logo di Veertien?",
+		"answer_correct":"14",
+		"answer_wrong_1":"15",
+		"answer_wrong_2":"10",
+		"answer_wrong_3":"69"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama il camionista creato da Lyezar per EuroTruck Simulator 2?",
+		"answer_correct":"Carletto Camionetto",
+		"answer_wrong_1":"Sushito Male",
+		"answer_wrong_2":"Simone Boisi",
+		"answer_wrong_3":"Mauro Zanichelli"
+	},
+	{
+		"difficulty":"4",
+		"question":"Secondo il titolo della sezione \"Abbonati\" nella pagina \"Informazioni\" su Twitch, cosa ricevereste abbonandovi?",
+		"answer_correct":"La bellezza",
+		"answer_wrong_1":"Lo sgodo",
+		"answer_wrong_2":"Contenuti esclusivi",
+		"answer_wrong_3":"Tante emote"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale effetto sonoro i Termosifoni hanno spesso usato come censura, soprattutto nei loro primi anni?",
+		"answer_correct":"Un Quack",
+		"answer_wrong_1":"Un Peto",
+		"answer_wrong_2":"Un Beep",
+		"answer_wrong_3":"Un Rutto"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quale Colin Mcrae Rally \u00E8 stato portato durante la live del compleanno di Moro del 2022?",
+		"answer_correct":"Colin Mcrae Rally",
+		"answer_wrong_1":"Colin Mcrae Rally 2",
+		"answer_wrong_2":"Colin Mcrae Rally Remake",
+		"answer_wrong_3":"Colin Mcrae Rally Dirt 2"
+	},
+	{
+		"difficulty":"1",
+		"question":"A quale frutto viene associato lo Zio, soprattutto durante la termomaratona di dicembre 2022",
+		"answer_correct":"Pera",
+		"answer_wrong_1":"Mela",
+		"answer_wrong_2":"Banana",
+		"answer_wrong_3":"Cipolla"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa aveva ricevuto Mark da Razer nella sponsorizzazione delle prime live",
+		"answer_correct":"Cuffie rotte",
+		"answer_wrong_1":"Tastiera rotta",
+		"answer_wrong_2":"Sedia da gaming rotta",
+		"answer_wrong_3":"Un apribottiglie rotto"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 il badge originale riservato ai moderatori del canale?",
+		"answer_correct":"Verde e bianco",
+		"answer_wrong_1":"Verde e giallo",
+		"answer_wrong_2":"Viola e giallo",
+		"answer_wrong_3":"Viola e bianco"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste affermazioni sulle emote di Ckibe sul canale dei Termosifoni \u00E8 vera?",
+		"answer_correct":"Ha fatto emote animate",
+		"answer_wrong_1":"Sono ormai in disuso",
+		"answer_wrong_2":"Solo disegnate con Paint",
+		"answer_wrong_3":"Ha creato solo 3 emote"
+	},
+	{
+		"difficulty":"1",
+		"question":"Al 2022, se hai 74 mesi di abbonamento, di che colore \u00E8 il tuo badge abbonato?",
+		"answer_correct":"Viola",
+		"answer_wrong_1":"Celeste",
+		"answer_wrong_2":"Oro",
+		"answer_wrong_3":"Platino"
+	},
+	{
+		"difficulty":"1",
+		"question":"Mark, a chi dedica in modo specifico il suo momento Amarcord durante il TermoGiornale?",
+		"answer_correct":"A Lyezar",
+		"answer_wrong_1":"A Moro",
+		"answer_wrong_2":"Agli abbonati",
+		"answer_wrong_3":"A s\u00E9 stesso"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quando Mark diche che una persona \u00E8 detta \"U cunnu\", quale dialetto usa?",
+		"answer_correct":"Calabrese",
+		"answer_wrong_1":"Sardo",
+		"answer_wrong_2":"Lombardo",
+		"answer_wrong_3":"Veneto"
+	},
+	{
+		"difficulty":"6",
+		"question":"Quanti abbonati vi erano al termine della 12 ore di natale 2022?",
+		"answer_correct":"Circa 1800",
+		"answer_wrong_1":"Circa 1700",
+		"answer_wrong_2":"Circa 1600",
+		"answer_wrong_3":"Circa 1900"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale pettinatura \u00E8 spesso considerata la peggiore nelle live dei Termosifoni?",
+		"answer_correct":"Il mullet",
+		"answer_wrong_1":"La pinna",
+		"answer_wrong_2":"La chierica",
+		"answer_wrong_3":"I rasta"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa stavano trasmettendo i Termosifoni nella famosa clip di moro che sputa acqua durante un singhiozzo?",
+		"answer_correct":"Meme Review",
+		"answer_wrong_1":"Non erano sul loro canale",
+		"answer_wrong_2":"Video domenicali",
+		"answer_wrong_3":"Rassegna Stonka"
+	},
+	{
+		"difficulty":"4",
+		"question":"Di che colore \u00E8 il pennarello che cancella il nome di Esprit dal biglietto da visita nel viaggione 2022?",
+		"answer_correct":"Blu",
+		"answer_wrong_1":"Nero",
+		"answer_wrong_2":"Rosso",
+		"answer_wrong_3":"Verde"
+	},
+	{
+		"difficulty":"2",
+		"question":"Ad agosto 2022, qual \u00E8 la clip pubblica con pi\u00F9 visual del canale?",
+		"answer_correct":"Urlo inumano",
+		"answer_wrong_1":"Metodo per il singhiozzo",
+		"answer_wrong_2":"Moro e il calabrone",
+		"answer_wrong_3":"Grazie all'isis"
+	},
+	{
+		"difficulty":"1",
+		"question":"In una diretta di Minecraft nell'estate del 2022, Mark si era rasato la barba. Cosa aveva notato, invece, Lyezar?",
+		"answer_correct":"Moro pelato",
+		"answer_wrong_1":"Mark in canotta",
+		"answer_wrong_2":"Il nuovo HUD delle webcam",
+		"answer_wrong_3":"La patch di Minecraft"
+	},
+	{
+		"difficulty":"4",
+		"question":"Nella pagina \"Informazioni\" su Twitch ci sono diverse sezioni. Quale icona rappresenta la sezione Wishlist?",
+		"answer_correct":"Un pacco regalo",
+		"answer_wrong_1":"Il logo di Amazon",
+		"answer_wrong_2":"Un carrello",
+		"answer_wrong_3":"Un pollice"
+	},
+	{
+		"difficulty":"1",
+		"question":"Durante una diretta su TTT del 2022, chi aveva minacciato di \"massacrare di pugni nel cazzo\" nella famosa clip?",
+		"answer_correct":"Yotobi",
+		"answer_wrong_1":"Mark",
+		"answer_wrong_2":"Vector",
+		"answer_wrong_3":"KoRnFactory"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama lo chef, famoso dai Termosifoni per una emote \"Stare\"?",
+		"answer_correct":"Giorgione",
+		"answer_wrong_1":"Max",
+		"answer_wrong_2":"Cracco",
+		"answer_wrong_3":"Massari"
+	},
+	{
+		"difficulty":"2",
+		"question":"Nella emote TermoUUUH, Moro stava imitando degli utenti lamentosi. Cosa riguardava il lamento?",
+		"answer_correct":"I giochi con i pixel",
+		"answer_wrong_1":"Le mod dei giochi",
+		"answer_wrong_2":"I giochi piratati",
+		"answer_wrong_3":"Le speedrun"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi personaggi famosi appare in una variante KEK nel catalogo delle emote?",
+		"answer_correct":"Dario Fo",
+		"answer_wrong_1":"Pippo Baudo",
+		"answer_wrong_2":"Fabio Cannavaro",
+		"answer_wrong_3":"Franciesco Totti"
+	},
+	{
+		"difficulty":"4",
+		"question":"Al 2022 e secondo StreamElements, quale di questi hashtags \u00E8 il meno usato?",
+		"answer_correct":"#MagoVero",
+		"answer_wrong_1":"#CazzoQuasi",
+		"answer_wrong_2":"#TeamMaliali",
+		"answer_wrong_3":"#eInvece"
+	},
+	{
+		"difficulty":"4",
+		"question":"Nel widget della pagina Twitch \"Informazioni\" dei Termos, di che colore \u00E8 il countdown alla prossima live?",
+		"answer_correct":"Giallo",
+		"answer_wrong_1":"Viola",
+		"answer_wrong_2":"Rosso",
+		"answer_wrong_3":"Bianco"
+	},
+	{
+		"difficulty":"2",
+		"question":"Di che colore \u00E8 lo sfondo del logo dei Termosifoni nella pagina Linktree?",
+		"answer_correct":"Arcobaleno",
+		"answer_wrong_1":"Rosso e viola",
+		"answer_wrong_2":"Viola",
+		"answer_wrong_3":"Giallo e Viola"
+	},
+	{
+		"difficulty":"1",
+		"question":"A quale elemento di abbigliamento corrispondono i Gandhali?",
+		"answer_correct":"Sandali",
+		"answer_wrong_1":"Pantaloni",
+		"answer_wrong_2":"Pedalini",
+		"answer_wrong_3":"Cappelli"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale affermazione sulla la zucca di halloween 2022 di Moro \u00E8 vera?",
+		"answer_correct":"Si scordava di accenderla",
+		"answer_wrong_1":"Era viola",
+		"answer_wrong_2":"Aveva luci RGB",
+		"answer_wrong_3":"Era un Pokemon"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale simbolo ci sono sui TermoSoldi?",
+		"answer_correct":"Il logo dei termosifoni",
+		"answer_wrong_1":"Il dollaro",
+		"answer_wrong_2":"Una stella",
+		"answer_wrong_3":"La sigla TS"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste lettere non appare in alcuna immagine di emote di Twitch (Escluse estensioni) al 2022?",
+		"answer_correct":"F",
+		"answer_wrong_1":"R",
+		"answer_wrong_2":"B",
+		"answer_wrong_3":"C"
+	},
+	{
+		"difficulty":"2",
+		"question":"Nella maratona natalizia del 2022, quale gioco vedeva Yotobi come ospite?",
+		"answer_correct":"Pummel Party",
+		"answer_wrong_1":"TTT",
+		"answer_wrong_2":"Jackbox",
+		"answer_wrong_3":"COD Warzone"
+	},
+	{
+		"difficulty":"1",
+		"question":"Di che colore \u00E8 la benda dell'emote TermoBlind?",
+		"answer_correct":"Rossa",
+		"answer_wrong_1":"Viola",
+		"answer_wrong_2":"Arcobaleno",
+		"answer_wrong_3":"Blu"
+	},
+	{
+		"difficulty":"1",
+		"question":"A quale di queste bevande somiglia il liquido nel bicchiere del TermoLord?",
+		"answer_correct":"Vino",
+		"answer_wrong_1":"Acqua",
+		"answer_wrong_2":"Succo di pera",
+		"answer_wrong_3":"Birra"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste emote non ha la faccia orientata verso sinistra?",
+		"answer_correct":"TermoNote",
+		"answer_wrong_1":"TermoLul",
+		"answer_wrong_2":"TermoWOW",
+		"answer_wrong_3":"TermoCrazy"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste emote non presenta oggetti viola o fucsia in mano?",
+		"answer_correct":"TermoSing",
+		"answer_wrong_1":"TermoLord",
+		"answer_wrong_2":"TermoNote",
+		"answer_wrong_3":"TermoGift"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste emote si pu\u00F2 sbloccare abbonandosi con la tier 3?",
+		"answer_correct":"TermoMonkaGIGA",
+		"answer_wrong_1":"TermoBye",
+		"answer_wrong_2":"TermoTroll",
+		"answer_wrong_3":"TermoSigh"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste affermazioni sull'emote BOOBA \u00E8 falsa?",
+		"answer_correct":"Arrossisce",
+		"answer_wrong_1":"Estende gli occhi",
+		"answer_wrong_2":"Ha le labbra",
+		"answer_wrong_3":"Ha un vestito nero"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale animale \u00E8 protagonista dell'emote SLURP?",
+		"answer_correct":"Gatto",
+		"answer_wrong_1":"Cane",
+		"answer_wrong_2":"Capra",
+		"answer_wrong_3":"Pecora"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa non c'era nel vecchio prelive dei Termosifoni (quello prima del Jukebox)?",
+		"answer_correct":"Scritta \"I Termosifoni\"",
+		"answer_wrong_1":"Il logo di Twitch",
+		"answer_wrong_2":"Un termosifone di ghisa",
+		"answer_wrong_3":"Un termosifone felice"
+	},
+	{
+		"difficulty":"2",
+		"question":"Di che nazionalit\u00E0 \u00E8 solitamente Luke su F1?",
+		"answer_correct":"Estone",
+		"answer_wrong_1":"Italiana",
+		"answer_wrong_2":"Giapponese",
+		"answer_wrong_3":"Finlandese"
+	},
+	{
+		"difficulty":"3",
+		"question":"Da una diretta di Gartic Phone, di quale nazione \u00E8 vincitore il Paris Saint German?",
+		"answer_correct":"Stati Uniti D'Europa",
+		"answer_wrong_1":"Stati Uniti Del Mondo",
+		"answer_wrong_2":"Stati Uniti D'America",
+		"answer_wrong_3":"Stati Unti D'America"
+	},
+	{
+		"difficulty":"6",
+		"question":"Nel primo video della playlist delle TermoMaratone, cosa possiamo sentire?",
+		"answer_correct":"Della tosse",
+		"answer_wrong_1":"Una canzone",
+		"answer_wrong_2":"Un rutto",
+		"answer_wrong_3":"Un battito di mani"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi non \u00E8 un gioco in cui si disegna?",
+		"answer_correct":"Cards Against Humanity",
+		"answer_wrong_1":"Pinturillo 2",
+		"answer_wrong_2":"Skribbl",
+		"answer_wrong_3":"Gartic Phone"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi colori non appare nell'emote TermoVisione",
+		"answer_correct":"Azzurro",
+		"answer_wrong_1":"Verde",
+		"answer_wrong_2":"Viola",
+		"answer_wrong_3":"Arancione"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di queste affermazioni sul disegno del Sole di Mark \u00E8 falsa?",
+		"answer_correct":"Non ha il naso",
+		"answer_wrong_1":"Dice \"Morirai\"",
+		"answer_wrong_2":"Ha una frusta in mano",
+		"answer_wrong_3":"Sta piangendo"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di questi eventi non \u00E8 accaduto nella 12 ore di Pasqua 2022",
+		"answer_correct":"Assaggio del Durian",
+		"answer_wrong_1":"Induc",
+		"answer_wrong_2":"Massacro di pugni nel ca",
+		"answer_wrong_3":"Felpa Taormina"
+	},
+	{
+		"difficulty":"2",
+		"question":"Qualche volta Veertien fa una donazione scrivendo delle curiosit\u00E0 nel testo. Qual \u00E8 la cifra della donazione?",
+		"answer_correct":"3 euro e 14 centesimi",
+		"answer_wrong_1":"1 euro e 50 centesimi",
+		"answer_wrong_2":"14 euro",
+		"answer_wrong_3":"5 euro"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste parole non c'era sotto il logo PlayStation nella prima mod di Chi Vuol Essere Miliardario?",
+		"answer_correct":"Sgodo",
+		"answer_wrong_1":"Ewterdrope",
+		"answer_wrong_2":"Zio Pera",
+		"answer_wrong_3":"Sbinn"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa \u00E8 solitamente presente all'inizio del TermoBest?",
+		"answer_correct":"Una canzone",
+		"answer_wrong_1":"Un insulto",
+		"answer_wrong_2":"Uno jumpscare",
+		"answer_wrong_3":"Una foto dei Termosifoni"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiamano quasi sempre i personaggi di Lyezar nei vari giochi?",
+		"answer_correct":"Sushito Male",
+		"answer_wrong_1":"Nakata Pecchia",
+		"answer_wrong_2":"Yezar",
+		"answer_wrong_3":"Nakakata"
+	},
+	{
+		"difficulty":"2",
+		"question":"Di che colore \u00E8 la barba di Marcelo Salasso, calciatore in FIFA 23?",
+		"answer_correct":"Rosa",
+		"answer_wrong_1":"Bionda",
+		"answer_wrong_2":"Non c'\u00E8",
+		"answer_wrong_3":"Rossa"
+	},
+	{
+		"difficulty":"4",
+		"question":"Cosa c'\u00E8 scritto nel primo scudetto della Termosifoni F.C. su FIFA 23?",
+		"answer_correct":"Assidue Pugnare",
+		"answer_wrong_1":"Termosifoni F.C.",
+		"answer_wrong_2":"TS",
+		"answer_wrong_3":"Nessuna scritta"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama l'allenatrice assunta da Moro su Football Manager nel 2022?",
+		"answer_correct":"Britney Spears",
+		"answer_wrong_1":"Wilma Fuckers",
+		"answer_wrong_2":"Donna Rum",
+		"answer_wrong_3":"Valeria Marini"
+	},
+	{
+		"difficulty":"2",
+		"question":"Durante un evento post TermoRumble V, con quale oggetto Corvo ha sconfitto Moro?",
+		"answer_correct":"Una pala",
+		"answer_wrong_1":"Una sedia",
+		"answer_wrong_2":"Un tavolo",
+		"answer_wrong_3":"Una mazza da baseball"
+	},
+	{
+		"difficulty":"1",
+		"question":"Durante la prima diretta su MotoGP 2022, quante gare ha vinto Mark?",
+		"answer_correct":"0",
+		"answer_wrong_1":"1",
+		"answer_wrong_2":"2",
+		"answer_wrong_3":"3"
+	},
+	{
+		"difficulty":"6",
+		"question":"Cosa riguardava la notizia ambientata in Illinois, quella dove Moro ha letto lo stato USA come Illinu\u00E0",
+		"answer_correct":"Legge The Purge",
+		"answer_wrong_1":"Sequestro di Marijuana",
+		"answer_wrong_2":"Rapina a benzinaio",
+		"answer_wrong_3":"Assalto di tacchini"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama il personaggio di Mark su Speedrunners?",
+		"answer_correct":"Cosmonaut Comrade",
+		"answer_wrong_1":"The Falcon",
+		"answer_wrong_2":"SkullDuggery",
+		"answer_wrong_3":"Mr. Quick"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa ha \"mangiato\" Mark nella 12 ore Amarcord del 2022?",
+		"answer_correct":"Un cappello",
+		"answer_wrong_1":"Un durian",
+		"answer_wrong_2":"Un fazzoletto",
+		"answer_wrong_3":"Una caramella molto lunga"
+	},
+	{
+		"difficulty":"3",
+		"question":"Di che marca \u00E8 l'origano nella omonima pagina del primo TermOraculo?",
+		"answer_correct":"Cannamela",
+		"answer_wrong_1":"Ariosto",
+		"answer_wrong_2":"Termosifoni",
+		"answer_wrong_3":"La Drogheria"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quante volte \u00E8 presente il logo dei Termosifoni nel primo libro del TermOraculo?",
+		"answer_correct":"2",
+		"answer_wrong_1":"1",
+		"answer_wrong_2":"3",
+		"answer_wrong_3":"0"
+	},
+	{
+		"difficulty":"3",
+		"question":"Cosa non c'\u00E8 sul dorso del primo libro del TermOraculo?",
+		"answer_correct":"Il codice",
+		"answer_wrong_1":"Il logo dei Termosifoni",
+		"answer_wrong_2":"Il titolo del libro",
+		"answer_wrong_3":"Il colore viola"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale elettrodomestico a marchio Esprit viene costantemente inviato nei canali di comunicazione dei Termosifoni?",
+		"answer_correct":"Ventilatore",
+		"answer_wrong_1":"Termosifone",
+		"answer_wrong_2":"Caldaia",
+		"answer_wrong_3":"Scaldabagno"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale brano conclude un TermoBest mensile?",
+		"answer_correct":"Tema dei Looney Toons",
+		"answer_wrong_1":"Spring in My Step",
+		"answer_wrong_2":"Hello",
+		"answer_wrong_3":"Forecast"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi \u00E8 stato il cantante originale dei cori da stadio utilizzabili durante le live di FIFA?",
+		"answer_correct":"Luke",
+		"answer_wrong_1":"Ka Ching",
+		"answer_wrong_2":"Pardo",
+		"answer_wrong_3":"Moro"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama il personaggo spesso scelto da Lyezar sul nuovo Chi Vuol Essere Milionario",
+		"answer_correct":"Pablo",
+		"answer_wrong_1":"Marco",
+		"answer_wrong_2":"Geoff",
+		"answer_wrong_3":"Thierry"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale brano solitamente conclude un video dei Termosifoni che non sia un TermoBest?",
+		"answer_correct":"Forecast",
+		"answer_wrong_1":"Tema dei Looney Toons",
+		"answer_wrong_2":"Spring in My Step",
+		"answer_wrong_3":"Hello"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di questi elementi non \u00E8 presente nella chiusura di un TermoBest?",
+		"answer_correct":"Una tenda che si apre",
+		"answer_wrong_1":"TermosiFonzie",
+		"answer_wrong_2":"Cerchi concentrici",
+		"answer_wrong_3":"Gli orari delle live"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste versioni di Worms non ha un video dedicato al 2022?",
+		"answer_correct":"Worms Armageddon",
+		"answer_wrong_1":"Worms Reloaded",
+		"answer_wrong_2":"Worms Revolution",
+		"answer_wrong_3":"Worms WMD"
+	},
+	{
+		"difficulty":"5",
+		"question":"Come si chiama il font del testo Termosifoni presente nel logo?",
+		"answer_correct":"Agency",
+		"answer_wrong_1":"Impact",
+		"answer_wrong_2":"Arial Narrow",
+		"answer_wrong_3":"Gill Sans"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quale titolo viene giocato nel video pi\u00F9 vecchio attualmente presente nel canale dei Termosifoni?",
+		"answer_correct":"Minecraft",
+		"answer_wrong_1":"FIFA 15",
+		"answer_wrong_2":"Destiny",
+		"answer_wrong_3":"Smite"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale titolo viene giocato nel video pi\u00F9 vecchio attualmente presente nel canale delle live ricaricate dei Termosifoni?",
+		"answer_correct":"Medievil 2",
+		"answer_wrong_1":"TTT",
+		"answer_wrong_2":"EuroTruck Simulator",
+		"answer_wrong_3":"Minecraft"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quali di queste serie \u00E8 iniziata dopo sul canale Youtube principale?",
+		"answer_correct":"Sfida di Mark",
+		"answer_wrong_1":"Takedown",
+		"answer_wrong_2":"Dark Souls 3",
+		"answer_wrong_3":"Garry's Mod"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale titolo viene giocato nella Sfida di Mark?",
+		"answer_correct":"Modern Warfare 2",
+		"answer_wrong_1":"Modern Warfare",
+		"answer_wrong_2":"Black Ops",
+		"answer_wrong_3":"World at War"
+	},
+	{
+		"difficulty":"1",
+		"question":"Su quale mappa \u00E8 solitamente ambientata la Sfida di Mark?",
+		"answer_correct":"Rust",
+		"answer_wrong_1":"Highrise",
+		"answer_wrong_2":"Wasteland",
+		"answer_wrong_3":"Terminal"
+	},
+	{
+		"difficulty":"2",
+		"question":"Chi \u00E8 stato il primo ospite della Sfida di Mark?",
+		"answer_correct":"Yotobi",
+		"answer_wrong_1":"Gatto",
+		"answer_wrong_2":"Esprit",
+		"answer_wrong_3":"Lyezar"
+	},
+	{
+		"difficulty":"3",
+		"question":"Nella prima partita dei Termosifoni alla mod di Chi Vuol Essere Miliardario, quale nome hanno dato al giocatore?",
+		"answer_correct":"Ano",
+		"answer_wrong_1":"Giocatore 1",
+		"answer_wrong_2":"Gnomo Delle Feci ",
+		"answer_wrong_3":"AAAAAAAA"
+	},
+	{
+		"difficulty":"1",
+		"question":"In quale modalit\u00E0 di Garry's Mod bisogna trasformarsi in un oggetto e nascondersi?",
+		"answer_correct":"Prop Hunt",
+		"answer_wrong_1":"TTT",
+		"answer_wrong_2":"The Hidden",
+		"answer_wrong_3":"Death Run"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama la serie dove i Termosifoni aprono delle scatole con giochi o oggetti?",
+		"answer_correct":"Unboxifoni",
+		"answer_wrong_1":"Sbroxing",
+		"answer_wrong_2":"Termoscatole",
+		"answer_wrong_3":"I Pacchettini"
+	},
+	{
+		"difficulty":"4",
+		"question":"In che anno \u00E8 stato aggiunto Trouble in Terrorist Town su Garry's Mod?",
+		"answer_correct":"2010",
+		"answer_wrong_1":"2006",
+		"answer_wrong_2":"2008",
+		"answer_wrong_3":"2012"
+	},
+	{
+		"difficulty":"3",
+		"question":"Nel primo video di FIFA sul canale Youtube dei Termosifoni, chi si mostra in video?",
+		"answer_correct":"Gatto",
+		"answer_wrong_1":"Yotobi",
+		"answer_wrong_2":"Moro",
+		"answer_wrong_3":"Mark"
+	},
+	{
+		"difficulty":"2",
+		"question":"A quando risale la diretta di F1 fatta solo per gli abbonati, capostipite delle dirette di F1 pubbliche?",
+		"answer_correct":"2020",
+		"answer_wrong_1":"2018",
+		"answer_wrong_2":"2019",
+		"answer_wrong_3":"2021"
+	},
+	{
+		"difficulty":"5",
+		"question":"In che periodo Moro fece vedere al pubblico di aver tolto la sua pinna?",
+		"answer_correct":"Aprile 2020",
+		"answer_wrong_1":"Gennaio 2020",
+		"answer_wrong_2":"Settembre 2020",
+		"answer_wrong_3":"Luglio 2020"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale gioco viene trasmesso nella diretta in cui Moro annuncia di aver tolto la pinna?",
+		"answer_correct":"Golf With Your Friends",
+		"answer_wrong_1":"Minecraft",
+		"answer_wrong_2":"Tricky Towers",
+		"answer_wrong_3":"Uno"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale di questi personaggi del TermoVerse non guida un veicolo per lavoro?",
+		"answer_correct":"Gingol Bell",
+		"answer_wrong_1":"Carlo Attrezzi",
+		"answer_wrong_2":"Wilma Fuckers",
+		"answer_wrong_3":"Matteo Il Prete"
+	},
+	{
+		"difficulty":"2",
+		"question":"Chi di loro non \u00E8 stato semifinalista della TermoLeague 2022?",
+		"answer_correct":"Achille L'Aureo",
+		"answer_wrong_1":"Zuppa Di Culo Jr",
+		"answer_wrong_2":"TermoVisione",
+		"answer_wrong_3":"Matteo Il Prete"
+	},
+	{
+		"difficulty":"1",
+		"question":"Da chi \u00E8 doppiato il gioco \"Chi Vuol Essere Miliardario\" fatto dai Termosifoni in live nella maratona natalizia 2022?",
+		"answer_correct":"Gerry Scotti",
+		"answer_wrong_1":"Nessuno",
+		"answer_wrong_2":"L'autore della mod",
+		"answer_wrong_3":"Il presentatore americano"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale titolo \u00E8 stato giocato nella live titolata \"Una Macchina Tedesca Con I Tuoi Amici\"",
+		"answer_correct":"Golf With Your Friends",
+		"answer_wrong_1":"F1",
+		"answer_wrong_2":"Wolfenstein",
+		"answer_wrong_3":"BeanNG.drive"
+	},
+	{
+		"difficulty":"2",
+		"question":"In quale di queste serie non \u00E8 mai apparso Gingol Bell?",
+		"answer_correct":"Farming Simulator",
+		"answer_wrong_1":"Giochi Olimpici",
+		"answer_wrong_2":"UFC",
+		"answer_wrong_3":"WWE 2K"
+	},
+	{
+		"difficulty":"5",
+		"question":"Su quale mappa di TTT \u00E8 nato il personaggio di Nino Vangelo?",
+		"answer_correct":"Dreamvillage",
+		"answer_wrong_1":"Amsterville",
+		"answer_wrong_2":"Piranesi",
+		"answer_wrong_3":"Hogwards"
+	},
+	{
+		"difficulty":"5",
+		"question":"Quale di queste affermazioni sulla partita che ha dati i natali a Nino Vangelo su TTT \u00E8 falsa?",
+		"answer_correct":"Hanno vinto i traditori",
+		"answer_wrong_1":"Mark \u00E8 stato resuscitato",
+		"answer_wrong_2":"10 giocatori in partita",
+		"answer_wrong_3":"Mark era Detective"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quanti sbuffi di fumo separati ci sono nel logo dei Termosifoni?",
+		"answer_correct":"2",
+		"answer_wrong_1":"4",
+		"answer_wrong_2":"3",
+		"answer_wrong_3":"0"
+	},
+	{
+		"difficulty":"3",
+		"question":"A che periodo risale l'iscrizione del canale Youtube delle live ricaricate dei Termosifoni?",
+		"answer_correct":"Settembre 2016",
+		"answer_wrong_1":"Aprile 2016",
+		"answer_wrong_2":"Ottobre 2015",
+		"answer_wrong_3":"Agosto 2014"
+	},
+	{
+		"difficulty":"3",
+		"question":"A che periodo risale l'iscrizione del canale Youtube principale dei Termosifoni?",
+		"answer_correct":"Agosto 2014",
+		"answer_wrong_1":"Giugno 2015",
+		"answer_wrong_2":"Luglio 2013",
+		"answer_wrong_3":"Settembre 2016"
+	},
+	{
+		"difficulty":"6",
+		"question":"Quale di questi canali si \u00E8 iscritto prima su Youtube?",
+		"answer_correct":"Moro",
+		"answer_wrong_1":"CKibe",
+		"answer_wrong_2":"Luke Darko",
+		"answer_wrong_3":"IlGattoSulTubo"
+	},
+	{
+		"difficulty":"6",
+		"question":"Quale di questi canali si \u00E8 iscritto dopo su Youtube?",
+		"answer_correct":"IlGattoSulTubo",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Ckibe",
+		"answer_wrong_3":"Luke Darko"
+	},
+	{
+		"difficulty":"3",
+		"question":"Secondo il giornale \"Rassegna stonka\" uscito con l'anticipo delle live, chi si spacci\u00F2 per allenatore dei portieri",
+		"answer_correct":"Claudio Lippi",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Matteo Il Prete",
+		"answer_wrong_3":"Lino Musso"
+	},
+	{
+		"difficulty":"2",
+		"question":"Chi \u00E8 il famoso personaggio che potrebbe \"chiedere\" il canale ai Termosifoni?",
+		"answer_correct":"Lello Finanza",
+		"answer_wrong_1":"Pavel Netcode",
+		"answer_wrong_2":"Addol Fuel",
+		"answer_wrong_3":"Ricky Marketing"
+	},
+	{
+		"difficulty":"2",
+		"question":"Da quale gioco \u00E8 nato il personaggio di Addol Fuel?",
+		"answer_correct":"Don't Starve",
+		"answer_wrong_1":"TTT",
+		"answer_wrong_2":"H1Z1",
+		"answer_wrong_3":"Gartic Phone"
+	},
+	{
+		"difficulty":"2",
+		"question":"In quale gioco bisogna stare attenti ad un fiore che d\u00E0 pugni?",
+		"answer_correct":"Ultimate Chicken Horse",
+		"answer_wrong_1":"Human Fall Flat",
+		"answer_wrong_2":"Don't Starve",
+		"answer_wrong_3":"Minecraft"
+	},
+	{
+		"difficulty":"2",
+		"question":"In quale 12 ore Lyezar ha mangiato il durian?",
+		"answer_correct":"Natale 2021",
+		"answer_wrong_1":"Pasqua 2022",
+		"answer_wrong_2":"Pasqua 2021",
+		"answer_wrong_3":"Estate 2021"
+	},
+	{
+		"difficulty":"2",
+		"question":"Per un traguardo del sub goal del 2021, quanti pacchettini di durian avrebbe dovuto \"mangiare\" Mark?",
+		"answer_correct":"3",
+		"answer_wrong_1":"2",
+		"answer_wrong_2":"1",
+		"answer_wrong_3":"5"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale quadro \u00E8 presente in basso a destra nelle grafiche 2022 del canale?",
+		"answer_correct":"Notte stellata",
+		"answer_wrong_1":"Girasoli",
+		"answer_wrong_2":"L'urlo",
+		"answer_wrong_3":"La pers. della memoria"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale quadro non \u00E8 presente nelle grafiche 2021 e 2022 del canale?",
+		"answer_correct":"I girasoli",
+		"answer_wrong_1":"La pers. della memoria",
+		"answer_wrong_2":"L'assenzio",
+		"answer_wrong_3":"Decalcomania"
+	},
+	{
+		"difficulty":"3",
+		"question":"Nella grafica precedente a quella con i quadri, cosa decorava i bordi delle webcam?",
+		"answer_correct":"Finestre",
+		"answer_wrong_1":"Bordi colorati",
+		"answer_wrong_2":"Piccoli termosifoni",
+		"answer_wrong_3":"Nessuna cornice"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quali di queste caratteristiche non sono presenti nel Termosifonzie presente in chiusura di un video?",
+		"answer_correct":"Il naso",
+		"answer_wrong_1":"I capelli",
+		"answer_wrong_2":"Gli occhiali da sole",
+		"answer_wrong_3":"Il sorrisone"
+	},
+	{
+		"difficulty":"1",
+		"question":"Cosa non \u00E8 possibile diventare riscattando i TermoSoldi?",
+		"answer_correct":"Moderatore",
+		"answer_wrong_1":"VIP",
+		"answer_wrong_2":"Gnomo Delle Feci ",
+		"answer_wrong_3":"Benedetto dal TermOraculo"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 l'username corretto di uno dei bot pi\u00F9 famosi della chat dei Termosifoni?",
+		"answer_correct":"Moobot",
+		"answer_wrong_1":"Mobbot",
+		"answer_wrong_2":"Mooobot",
+		"answer_wrong_3":"Mobot"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quanti, al 2022, hanno il badge di Emittente nella chat dei Termosifoni",
+		"answer_correct":"1",
+		"answer_wrong_1":"0",
+		"answer_wrong_2":"2",
+		"answer_wrong_3":"4"
+	},
+	{
+		"difficulty":"1",
+		"question":"In quale gioco \u00E8 nato il personaggio di Matteo Il Prete?",
+		"answer_correct":"F1",
+		"answer_wrong_1":"WWE 2K22",
+		"answer_wrong_2":"TTT",
+		"answer_wrong_3":"MotoGP"
+	},
+	{
+		"difficulty":"2",
+		"question":"In quale gioco \u00E8 nata la variante di Matteo Il Prete, ovvero Matteo Il Dito?",
+		"answer_correct":"WWE 2K22",
+		"answer_wrong_1":"F1",
+		"answer_wrong_2":"TTT",
+		"answer_wrong_3":"MotoGP"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale sottotitolo ha il gioco a tema Termosifoni fatto in live nel 2022?",
+		"answer_correct":"Chronicles",
+		"answer_wrong_1":"Nessun sottotitolo",
+		"answer_wrong_2":"Journey",
+		"answer_wrong_3":"Quest"
+	},
+	{
+		"difficulty":"2",
+		"question":"A quale oggetto ci si riferisce con la parola ciovciovcine?",
+		"answer_correct":"Cecchino",
+		"answer_wrong_1":"Cerbottana",
+		"answer_wrong_2":"Ciondolo",
+		"answer_wrong_3":"Lancia"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale parola, nel Termoverse, descrive un oggetto generico?",
+		"answer_correct":"Capezzale",
+		"answer_wrong_1":"Classica",
+		"answer_wrong_2":"Galluta",
+		"answer_wrong_3":"Induc"
+	},
+	{
+		"difficulty":"1",
+		"question":"A quale termine \u00E8 possibile associare l'emote TermoNotStonks?",
+		"answer_correct":"Muis",
+		"answer_wrong_1":"Sium",
+		"answer_wrong_2":"Ostia",
+		"answer_wrong_3":"Oolong"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama, secondo la telefonata a casa su CVEM a tema Termosifoni, l'account Instagram di Mark?",
+		"answer_correct":"Zia May",
+		"answer_wrong_1":"Pisano",
+		"answer_wrong_2":"Brian May",
+		"answer_wrong_3":"Gerry Scotti"
+	},
+	{
+		"difficulty":"1",
+		"question":"Nel 2022, qual \u00E8 la cifra pi\u00F9 alta data in una singola donazione?",
+		"answer_correct":"500",
+		"answer_wrong_1":"400",
+		"answer_wrong_2":"200",
+		"answer_wrong_3":"100"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa voleva indicare Mark con la parola Termofenore?",
+		"answer_correct":"Semaforo",
+		"answer_wrong_1":"Fetore",
+		"answer_wrong_2":"Termosifone",
+		"answer_wrong_3":"Fattore"
+	},
+	{
+		"difficulty":"2",
+		"question":"In quale mese c'\u00E8 stata la prima edizione della TermoRumble?",
+		"answer_correct":"Aprile",
+		"answer_wrong_1":"Maggio",
+		"answer_wrong_2":"Giugno",
+		"answer_wrong_3":"Agosto"
+	},
+	{
+		"difficulty":"3",
+		"question":"Chi di loro non era presente nella prima edizione della TermoRumble?",
+		"answer_correct":"Pezzo Verde",
+		"answer_wrong_1":"Ralph Supersonico",
+		"answer_wrong_2":"Il Sole Di Mark",
+		"answer_wrong_3":"TermoVisione"
+	},
+	{
+		"difficulty":"3",
+		"question":"Secondo una leggenda popolare, quale personaggio nasconderebbe un coltello all'interno di s\u00E9 stesso?",
+		"answer_correct":"Fofao",
+		"answer_wrong_1":"Yezar",
+		"answer_wrong_2":"Il Conte",
+		"answer_wrong_3":"Trenino Eynus"
+	},
+	{
+		"difficulty":"5",
+		"question":"In che anno ha debuttato Fofao nella vita vera?",
+		"answer_correct":"1983",
+		"answer_wrong_1":"1995",
+		"answer_wrong_2":"2018",
+		"answer_wrong_3":"1978"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quale nazione ha dato i natali a Fofao?",
+		"answer_correct":"Brasile",
+		"answer_wrong_1":"Peru",
+		"answer_wrong_2":"Argentina",
+		"answer_wrong_3":"Cile"
+	},
+	{
+		"difficulty":"5",
+		"question":"Di che colore \u00E8 la cornice dell'orologio presente nella grafica 2022 dei Termosifoni?",
+		"answer_correct":"Nero",
+		"answer_wrong_1":"Marrone",
+		"answer_wrong_2":"Cromato argento",
+		"answer_wrong_3":"Bianco"
+	},
+	{
+		"difficulty":"3",
+		"question":"Qual \u00E8 il primo tasto da premere per chiamare il meccanico quando ci si ribalta su EuroTruck Simulator 2?",
+		"answer_correct":"F7",
+		"answer_wrong_1":"F8",
+		"answer_wrong_2":"F6",
+		"answer_wrong_3":"F4"
+	},
+	{
+		"difficulty":"4",
+		"question":"Completate la citazione di Mark del 2019: \"Re Mida, tutto quello che tocca diventa...\"",
+		"answer_correct":"Diarrea",
+		"answer_wrong_1":"Cacca",
+		"answer_wrong_2":"Letame",
+		"answer_wrong_3":"Fece"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale emote appare durante un Hype Train?",
+		"answer_correct":"TermoTrain",
+		"answer_wrong_1":"TermoTrenino",
+		"answer_wrong_2":"TermoEynus",
+		"answer_wrong_3":"TermoMark"
+	},
+	{
+		"difficulty":"6",
+		"question":"Quale frase \u00E8 stata riportata per prima nel canale Discord delle citazioni?",
+		"answer_correct":"Contessa le pere",
+		"answer_wrong_1":"Grazie all'ISIS",
+		"answer_wrong_2":"Brottimo",
+		"answer_wrong_3":"Hai preso la Bibbia?"
+	},
+	{
+		"difficulty":"2",
+		"question":"Che differenza di TermoSoldi c'\u00E8 tra stare sotto la contessa e sopra conte?",
+		"answer_correct":"0",
+		"answer_wrong_1":"1000",
+		"answer_wrong_2":"500",
+		"answer_wrong_3":"2000"
+	},
+	{
+		"difficulty":"5",
+		"question":"Cosa vedrete aprendo la \"Wishlist\" di Luke sul TermoSito?",
+		"answer_correct":"Kermit",
+		"answer_wrong_1":"Star Wars",
+		"answer_wrong_2":"Scottonelle",
+		"answer_wrong_3":"Del gin"
+	},
+	{
+		"difficulty":"4",
+		"question":"Come si intitola la Wishlist Amazon di Mark?",
+		"answer_correct":"Marklist",
+		"answer_wrong_1":"Wishlist di Mark",
+		"answer_wrong_2":"Si lo so sono monotono",
+		"answer_wrong_3":"Eynus"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di questi link non presenta il testo completo \"itermosifoni\"?",
+		"answer_correct":"Youtube",
+		"answer_wrong_1":"Twitch",
+		"answer_wrong_2":"Discord",
+		"answer_wrong_3":"Instantgaming"
+	},
+	{
+		"difficulty":"2",
+		"question":"Se volete ascoltare una sigla televisiva italiana, quale cifra non dovete donare?",
+		"answer_correct":"20 euro e 0 centesimi",
+		"answer_wrong_1":"75 euro e 0 centesimi",
+		"answer_wrong_2":"7 euro e 10 centesimi",
+		"answer_wrong_3":"100 euro e 0 centesimi"
+	},
+	{
+		"difficulty":"4",
+		"question":"Come si chiama l'album di Caparezza in cui \u00E8 presente il brano della donazione da 7 euro e 9 centesimi?",
+		"answer_correct":"Prisoner 709",
+		"answer_wrong_1":"Museica",
+		"answer_wrong_2":"Exuvia",
+		"answer_wrong_3":"Confusianesimo"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste donazioni richiede meno soldi?",
+		"answer_correct":"Passaparola",
+		"answer_wrong_1":"Star Wars Griffin",
+		"answer_wrong_2":"Tanto tanto tanto",
+		"answer_wrong_3":"TTS con Ka Ching"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale comando in chat bisogna usare per vedere l'ultimo video?",
+		"answer_correct":"ultimovideo",
+		"answer_wrong_1":"lastvideo",
+		"answer_wrong_2":"videoultimo",
+		"answer_wrong_3":"yt"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di questi costa meno TermoSoldi",
+		"answer_correct":"Chiedere al TermOraculo",
+		"answer_wrong_1":"Stare sopra a Conte",
+		"answer_wrong_2":"Stare sotto alla Contessa",
+		"answer_wrong_3":"Diventare Gnomo d.f."
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di questi non \u00E8 riscattabile con i TermoSoldi?",
+		"answer_correct":"Stare sotto a Conte",
+		"answer_wrong_1":"Diventare Gnomo",
+		"answer_wrong_2":"Modificare una emote",
+		"answer_wrong_3":"Riscattare il VIP"
+	},
+	{
+		"difficulty":"4",
+		"question":"Come si chiama la mappa di Pummel Party col Fetecchia?",
+		"answer_correct":"Pummeltown",
+		"answer_wrong_1":"Winterglow",
+		"answer_wrong_2":"Rusty Ruins",
+		"answer_wrong_3":"Overgrowth"
+	},
+	{
+		"difficulty":"3",
+		"question":"Da quale gioco deriva la skin che aveva Moro nel primo video fatto con DarkAngelCraft?",
+		"answer_correct":"Metal Gear Solid",
+		"answer_wrong_1":"Star Wars",
+		"answer_wrong_2":"Dark Souls",
+		"answer_wrong_3":"The Binding Of Isaac"
+	},
+	{
+		"difficulty":"2",
+		"question":"Se si ordinano i video del canale Youtube principale per popolarit\u00E0, quale gioco appare in prima posizione?",
+		"answer_correct":"GTA V",
+		"answer_wrong_1":"Minecraft",
+		"answer_wrong_2":"COD",
+		"answer_wrong_3":"FIFA"
+	},
+	{
+		"difficulty":"2",
+		"question":"Come si chiama il bot Telegram che controlla che gli utenti siano abbonati su Twitch?",
+		"answer_correct":"Termo Controllore",
+		"answer_wrong_1":"Termo Polizia",
+		"answer_wrong_2":"Termo Carabinieri",
+		"answer_wrong_3":"Termo Vigile"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale comando un moderatore pu\u00F2 usare per incrementare il contatore delle cose dette male in live",
+		"answer_correct":"Cosa",
+		"answer_wrong_1":"Conta",
+		"answer_wrong_2":"Sbaglio",
+		"answer_wrong_3":"Niente"
+	},
+	{
+		"difficulty":"2",
+		"question":"Chi \u00E8 il protagonista dell'emote TermoWhat?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Un gatto",
+		"answer_wrong_3":"Un bambino"
+	},
+	{
+		"difficulty":"1",
+		"question":"Verso dove guarda l'emote cocka",
+		"answer_correct":"A destra",
+		"answer_wrong_1":"A sinistra",
+		"answer_wrong_2":"In alto",
+		"answer_wrong_3":"Negli occhi l'utente"
+	},
+	{
+		"difficulty":"6",
+		"question":"Nel regolamento Discord, quale parola Luke ha nascosto come spoiler?",
+		"answer_correct":"ciao",
+		"answer_wrong_1":"Luke",
+		"answer_wrong_2":"spoiler",
+		"answer_wrong_3":"nascosto"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale emoji \u00E8 presente nel titolo del canale memesifoni su Discord?",
+		"answer_correct":"Cacca",
+		"answer_wrong_1":"Water",
+		"answer_wrong_2":"Faccia che ride",
+		"answer_wrong_3":"Tavolozza da pittore"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quanto cost\u00F2 il famoso orologio in offerta incredibile?",
+		"answer_correct":"5 euro",
+		"answer_wrong_1":"0 euro",
+		"answer_wrong_2":"10 euro",
+		"answer_wrong_3":"2 euro"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi distrusse un letto con una capriola durante un incontro di gruppo?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Ckibe"
+	},
+	{
+		"difficulty":"4",
+		"question":"Mark e Moro parteciparono in un video di YotobiGames nel 2015, come si intitolava il gioco?",
+		"answer_correct":"Amazing World",
+		"answer_wrong_1":"Minecraft",
+		"answer_wrong_2":"Salt",
+		"answer_wrong_3":"Dragon Nest"
+	},
+	{
+		"difficulty":"2",
+		"question":"In che anno \u00E8 uscita la Guida Di Minecraft sul canale dei Termosifoni?",
+		"answer_correct":"2016",
+		"answer_wrong_1":"2015",
+		"answer_wrong_2":"2018",
+		"answer_wrong_3":"2017"
+	},
+	{
+		"difficulty":"2",
+		"question":"Di che colore sono le Camel, una volta spesso citate nelle live?",
+		"answer_correct":"Blu",
+		"answer_wrong_1":"Rosse",
+		"answer_wrong_2":"Bianche",
+		"answer_wrong_3":"Nere"
+	},
+	{
+		"difficulty":"1",
+		"question":"Al 2022, chi non ha mai vinto una edizione della TermoRumble?",
+		"answer_correct":"Chad Moro",
+		"answer_wrong_1":"Il Sole Di Mark",
+		"answer_wrong_2":"Il Pezzo Verde",
+		"answer_wrong_3":"Ralph Supersonico"
+	},
+	{
+		"difficulty":"6",
+		"question":"Chi ha vinto il 5 Man Extreme Rules svoltosi il 21 settembre 2022 su WWE 2K22?",
+		"answer_correct":"Filippo",
+		"answer_wrong_1":"Trenino Eynus",
+		"answer_wrong_2":"Asino Di Memento",
+		"answer_wrong_3":"Sole Di Mark"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale soprannome \u00E8 stato dato a Durian Zapata su FIFA?",
+		"answer_correct":"Plinio",
+		"answer_wrong_1":"Nakakata",
+		"answer_wrong_2":"Durinho",
+		"answer_wrong_3":"Ronaldeynus"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa c'\u00E8 scritto nell'immagine presente quando i Termosifoni non sono in onda?",
+		"answer_correct":"Siamo offline",
+		"answer_wrong_1":"Torniamo presto",
+		"answer_wrong_2":"Starting soon",
+		"answer_wrong_3":"Momento riposino"
+	},
+	{
+		"difficulty":"1",
+		"question":"Quale nome era presente sulla maglia di Liquidino su FIFA?",
+		"answer_correct":"Cacostronzi",
+		"answer_wrong_1":"Liquidino",
+		"answer_wrong_2":"Moro",
+		"answer_wrong_3":"Morelli"
+	},
+	{
+		"difficulty":"2",
+		"question":"In quale FIFA ha esordito Liquidino in live?",
+		"answer_correct":"FIFA 19",
+		"answer_wrong_1":"FIFA 20",
+		"answer_wrong_2":"FIFA 21",
+		"answer_wrong_3":"FIFA 22"
+	},
+	{
+		"difficulty":"2",
+		"question":"Su quale gioco \u00E8 nato il personaggio di Hugo Sugo?",
+		"answer_correct":"FIFA",
+		"answer_wrong_1":"TTT",
+		"answer_wrong_2":"Pummel Party",
+		"answer_wrong_3":"Gartic Phone"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di questi personaggi si pu\u00F2 dire sia stato creato dalla chat?",
+		"answer_correct":"Btaman",
+		"answer_wrong_1":"Le Plepi",
+		"answer_wrong_2":"Mago Zu",
+		"answer_wrong_3":"Lello Finanza"
+	},
+	{
+		"difficulty":"2",
+		"question":"Dov'\u00E8 nato il personaggio di Zia May nel TermoVerse?",
+		"answer_correct":"Everyone is John",
+		"answer_wrong_1":"TTT",
+		"answer_wrong_2":"Chi Vuol Ess. Miliardario",
+		"answer_wrong_3":"Gartic Phone"
+	},
+	{
+		"difficulty":"4",
+		"question":"Qual \u00E8 il nome inglese di Plinio di Animal Crossing?",
+		"answer_correct":"Wade",
+		"answer_wrong_1":"Analog",
+		"answer_wrong_2":"Roald",
+		"answer_wrong_3":"Cube"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 il nome di Malato, personaggio del TermoVerse raccontato in una canzone di Prato Fluido?",
+		"answer_correct":"Mario",
+		"answer_wrong_1":"Matteo",
+		"answer_wrong_2":"Mimmo",
+		"answer_wrong_3":"Maurizio"
+	},
+	{
+		"difficulty":"1",
+		"question":"Qual \u00E8 il nome del famoso portiere di FIFA, introdotto su FIFA 21?",
+		"answer_correct":"Lino",
+		"answer_wrong_1":"Mario",
+		"answer_wrong_2":"Luca",
+		"answer_wrong_3":"Gino"
+	},
+	{
+		"difficulty":"5",
+		"question":"Chi ha scritto il primo post nel canale Annunci di Discord?",
+		"answer_correct":"Luke",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Vector",
+		"answer_wrong_3":"Mark"
+	},
+	{
+		"difficulty":"6",
+		"question":"Chi tra loro, su WWE 2K22, non ha un accessorio bianco in testa nella sua posa da vestito?",
+		"answer_correct":"Il Papa Che Spara",
+		"answer_wrong_1":"Putino Official",
+		"answer_wrong_2":"La Regina",
+		"answer_wrong_3":"Lyezar San"
+	},
+	{
+		"difficulty":"1",
+		"question":"Mark, una live, cosa confuse per una bibbia portata da Moro?",
+		"answer_correct":"Un bicchiere",
+		"answer_wrong_1":"Un piatto",
+		"answer_wrong_2":"Le cuffie",
+		"answer_wrong_3":"Il TermOraculo"
+	},
+	{
+		"difficulty":"6",
+		"question":"Come si chiama il brano di sottofondo usato nel brano \"Siamo 4,5,6\"?",
+		"answer_correct":"Resonance",
+		"answer_wrong_1":"Oneself",
+		"answer_wrong_2":"Freedom",
+		"answer_wrong_3":"Cosmos"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi di loro si chiama Fabrizio?",
+		"answer_correct":"Corvo Bianco",
+		"answer_wrong_1":"KoNnFactory",
+		"answer_wrong_2":"Veertien",
+		"answer_wrong_3":"Vector879"
+	},
+	{
+		"difficulty":"1",
+		"question":"Chi di loro si chiama Federico?",
+		"answer_correct":"KoRnFactory",
+		"answer_wrong_1":"Corvo Bianco",
+		"answer_wrong_2":"Veertien",
+		"answer_wrong_3":"Vector879"
+	},
+	{
+		"difficulty":"5",
+		"question":"Quale di queste affermazioni sul momento in cui \u00E8 nato il Re Porcage \u00E8 falsa?",
+		"answer_correct":"Mancava Lyezar",
+		"answer_wrong_1":"Mancava Luke",
+		"answer_wrong_2":"Era mattina",
+		"answer_wrong_3":"Non vi era un videogame"
+	},
+	{
+		"difficulty":"2",
+		"question":"Cosa c'era scritto in una felpa in edizione limitata introdotta durante una 12 ore nel 2022?",
+		"answer_correct":"Taormina",
+		"answer_wrong_1":"Zio Pera",
+		"answer_wrong_2":"Termsifoni",
+		"answer_wrong_3":"Paolo"
+	},
+	{
+		"difficulty":"7",
+		"question":"Secondo il Comune di Trento, a quanto ammontano gli abitanti di Povo al 9 giugno 2019?",
+		"answer_correct":"5843",
+		"answer_wrong_1":"1158",
+		"answer_wrong_2":"8256",
+		"answer_wrong_3":"3987"
+	},
+	{
+		"difficulty":"5",
+		"question":"Di che colore era il vaso della pianta presente nella schermata con le webcam del 2022?",
+		"answer_correct":"Bianco",
+		"answer_wrong_1":"Marrone",
+		"answer_wrong_2":"Nero",
+		"answer_wrong_3":"Grigio"
+	},
+	{
+		"difficulty":"7",
+		"question":"Quale di questi giochi \u00E8 uscito in USA lo stesso anno di nascita di Mark?",
+		"answer_correct":"Doom",
+		"answer_wrong_1":"Street Fighter II",
+		"answer_wrong_2":"Sonic The Hedgehog",
+		"answer_wrong_3":"Super Metroid"
+	},
+	{
+		"difficulty":"3",
+		"question":"Se prendiamo le 20 clip pi\u00F9 viste di sempre fino alla met\u00E0 del 2023, quale gioco appare con pi\u00F9 frequenza?",
+		"answer_correct":"F1 2020",
+		"answer_wrong_1":"Farming Simulator 19",
+		"answer_wrong_2":"Minecraft",
+		"answer_wrong_3":"Elden Ring"
+	},
+	{
+		"difficulty":"2",
+		"question":"Durante il viaggio in Giappone 2023, Lyezar ha fatto, in diretta, un \"Marco Togni\". Cosa vuol dire?",
+		"answer_correct":"\u00C8 caduto",
+		"answer_wrong_1":"Ha sbagliato un ingresso",
+		"answer_wrong_2":"Si \u00E8 addormentato",
+		"answer_wrong_3":"Ha mangiato piccante"
+	},
+	{
+		"difficulty":"2",
+		"question":"Che aspetto hanno le terre emerse nella sigla del TermoGiornale?",
+		"answer_correct":"Ci sono quotidiani",
+		"answer_wrong_1":"Sono gialle",
+		"answer_wrong_2":"Sono bianche",
+		"answer_wrong_3":"Ci sono loghi dei termos"
+	},
+	{
+		"difficulty":"2",
+		"question":"Di che colore \u00E8 il gamepad nella sigla del TermoGiornale?",
+		"answer_correct":"Grigio",
+		"answer_wrong_1":"Bianco",
+		"answer_wrong_2":"Viola",
+		"answer_wrong_3":"Giallo"
+	},
+	{
+		"difficulty":"3",
+		"question":"Che numero \u00E8 presente nel calendario della sigla del TermoGiornale?",
+		"answer_correct":"15",
+		"answer_wrong_1":"7",
+		"answer_wrong_2":"28",
+		"answer_wrong_3":"10"
+	},
+	{
+		"difficulty":"3",
+		"question":"Negli ultimi frame della sigla del TermoGiornale \u00E8 possibile vedere delle scritte in basso, cosa \u00E8 presente?",
+		"answer_correct":"Link al canale Twitch",
+		"answer_wrong_1":"Nome dell'autore",
+		"answer_wrong_2":"Una frase divertente",
+		"answer_wrong_3":"I nomi delle rubriche"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di questi oggetti non \u00E8 presente nella sigla del TermoGiornale?",
+		"answer_correct":"Orologio",
+		"answer_wrong_1":"Teschio",
+		"answer_wrong_2":"Gamepad",
+		"answer_wrong_3":"Tromba"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale gioco stava trasmettendo Moro nella famosa clip in cui lancia il cartonato della Regina Elisabetta II?",
+		"answer_correct":"Digimon Survive",
+		"answer_wrong_1":"Elden Ring",
+		"answer_wrong_2":"Dark And Darker",
+		"answer_wrong_3":"Max Payne"
+	},
+	{
+		"difficulty":"5",
+		"question":"Secondo una delle canzoni di Mark, dove vive Furia cavallo del west?",
+		"answer_correct":"Nel CERN",
+		"answer_wrong_1":"Alla NASA",
+		"answer_wrong_2":"A Linate",
+		"answer_wrong_3":"Dentro di s\u00E9"
+	},
+	{
+		"difficulty":"6",
+		"question":"Nella cover di Maracaibo cantata da Moro e Corvo dal TermoBest di giugno 22, quanto forte \u00E8 il vento sul mare?",
+		"answer_correct":"Forza sei",
+		"answer_wrong_1":"Forza sette",
+		"answer_wrong_2":"Forza tre",
+		"answer_wrong_3":"Forza nove"
+	},
+	{
+		"difficulty":"5",
+		"question":"Quale animale \u00E8 il protagonista del brano del titolo del Termobest di marzo 22?",
+		"answer_correct":"Dodo",
+		"answer_wrong_1":"Topo",
+		"answer_wrong_2":"Cavallo",
+		"answer_wrong_3":"Gatto"
+	},
+	{
+		"difficulty":"7",
+		"question":"Nel video Hmm Uacciussei, quanti colpi di pistola possiamo sentire?",
+		"answer_correct":"7",
+		"answer_wrong_1":"5",
+		"answer_wrong_2":"2",
+		"answer_wrong_3":"6"
+	},
+	{
+		"difficulty":"4",
+		"question":"Cosa appare per primo nel video Hmm Uacciussei presente nel canale del Gatto?",
+		"answer_correct":"Moro",
+		"answer_wrong_1":"Gatto",
+		"answer_wrong_2":"CKibe",
+		"answer_wrong_3":"Il logo del Gatto"
+	},
+	{
+		"difficulty":"3",
+		"question":"Chi di loro ha vinto la Sfida Di Mark",
+		"answer_correct":"Nessuno dei tre",
+		"answer_wrong_1":"Moro",
+		"answer_wrong_2":"Lyezar",
+		"answer_wrong_3":"Esprit"
+	},
+	{
+		"difficulty":"3",
+		"question":"Al 2022, quanti episodi della Sfida Di Mark sono presenti sul canale YouTube?",
+		"answer_correct":"10",
+		"answer_wrong_1":"8",
+		"answer_wrong_2":"9",
+		"answer_wrong_3":"7"
+	},
+	{
+		"difficulty":"3",
+		"question":"Il personaggio di Moro sul gioco Baldur's Gate 3, \u00E8 omonimo di un VIP. Per cosa sarebbe conosciuto?",
+		"answer_correct":"Calciatore",
+		"answer_wrong_1":"Serial Killer",
+		"answer_wrong_2":"Inventore",
+		"answer_wrong_3":"Attore Hard"
+	},
+	{
+		"difficulty":"5",
+		"question":"Qual \u00E8 il primo NPC di TermoVerse Chronicles con cui i Termos hanno parlato durante il loro Gameplay?",
+		"answer_correct":"Porca Moglie",
+		"answer_wrong_1":"Carmelina",
+		"answer_wrong_2":"Casimiro Vivili",
+		"answer_wrong_3":"Annabella Minghiella"
+	},
+	{
+		"difficulty":"4",
+		"question":"Nel gameplay dei Termos di TermoVerse Chronicles, qual \u00E8 il primo nemico che incontrano?",
+		"answer_correct":"Gnomo delle feci",
+		"answer_wrong_1":"Plepi",
+		"answer_wrong_2":"Scheletro con tromba",
+		"answer_wrong_3":"Mal. col capp. da pirata"
+	},
+	{
+		"difficulty":"2",
+		"question":"Qual \u00E8 la valuta del gioco TermoVerse Chronicles?",
+		"answer_correct":"TermoSoldi",
+		"answer_wrong_1":"Guil",
+		"answer_wrong_2":"Lilleri",
+		"answer_wrong_3":"Yen"
+	},
+	{
+		"difficulty":"3",
+		"question":"Come si chiama il gatto di Giovanni Cacalipanni?",
+		"answer_correct":"Miaurizio",
+		"answer_wrong_1":"Silvestro",
+		"answer_wrong_2":"Carletto",
+		"answer_wrong_3":"Ano"
+	},
+	{
+		"difficulty":"6",
+		"question":"Nella famosa clip di Esprit che urla \"Questo \u00E8 un bastardo\" su FIFA, di che colore \u00E8 la maglia della sua squadra? ",
+		"answer_correct":"Viola",
+		"answer_wrong_1":"Arancione",
+		"answer_wrong_2":"Bianca",
+		"answer_wrong_3":"Nera"
+	},
+	{
+		"difficulty":"3",
+		"question":"Nel video delle migliori 100 clip pi\u00F9 viste di FIFA 19, chi segna il goal nella clip in prima posizione?",
+		"answer_correct":"Moro",
+		"answer_wrong_1":"KoNnFactory",
+		"answer_wrong_2":"Mark",
+		"answer_wrong_3":"Lyezar"
+	},
+	{
+		"difficulty":"4",
+		"question":"Nel P10 Termos Racing Game per i sub su Telegram, quanti punti vince chi azzecca il pilota F1 arrivato decimo?",
+		"answer_correct":"25",
+		"answer_wrong_1":"10",
+		"answer_wrong_2":"1",
+		"answer_wrong_3":"0"
+	},
+	{
+		"difficulty":"2",
+		"question":"Quale di queste affermazioni sull'emote TermoNote \u00E8 falsa?",
+		"answer_correct":"Si vede solo una mano",
+		"answer_wrong_1":"La matita ha la gomma",
+		"answer_wrong_2":"Ha le sopracciglia",
+		"answer_wrong_3":"Non si vede la lingua"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale di queste emote non ha il testo composto da sole lettere maiuscole",
+		"answer_correct":"Moroge",
+		"answer_wrong_1":"Booba",
+		"answer_wrong_2":"Copium",
+		"answer_wrong_3":"Kekfo"
+	},
+	{
+		"difficulty":"3",
+		"question":"Che tipo di lotta \u00E8 stato il primo evento spin-off della TermoRumble?",
+		"answer_correct":"1 Vs 1 Brawl",
+		"answer_wrong_1":" Triple Threat",
+		"answer_wrong_2":"Elimination Chamber",
+		"answer_wrong_3":"5 Man Extreme Rules"
+	},
+	{
+		"difficulty":"3",
+		"question":"Chi ha vinto il Triple Threat organizzato tra i primi tre vincitori della TermoRumble?",
+		"answer_correct":"Asino Di Memento",
+		"answer_wrong_1":"Ralph Supersonico",
+		"answer_wrong_2":"Pezzo Verde",
+		"answer_wrong_3":"Ab. Uomo Della Bava"
+	},
+	{
+		"difficulty":"3",
+		"question":"Nella nuova grafica del 2023, di quale console \u00E8 il gamepad nella schermata delle webcam?",
+		"answer_correct":"PlayStation 5",
+		"answer_wrong_1":"Xbox Series X",
+		"answer_wrong_2":"Xbox 360",
+		"answer_wrong_3":"PlayStation 4"
+	},
+	{
+		"difficulty":"4",
+		"question":"Cosa manca nell'orologio della nuova schermata delle webcam del 2023?",
+		"answer_correct":"Il numero dei secondi",
+		"answer_wrong_1":"Un tasto viola",
+		"answer_wrong_2":"Un tasto giallo",
+		"answer_wrong_3":"Il giorno della settimana"
+	},
+	{
+		"difficulty":"6",
+		"question":"Nel bicchiere della nuova schermata delle webcam del 2023 c'\u00E8 una cannuccia a strisce bianche e\u2026",
+		"answer_correct":"Azzurre",
+		"answer_wrong_1":"Gialle",
+		"answer_wrong_2":"Viola",
+		"answer_wrong_3":"Nere"
+	},
+	{
+		"difficulty":"7",
+		"question":"Quale di questi avvenimenti \u00E8 accaduto tra le date di nascita di Mark e Moro?",
+		"answer_correct":"Inizia Sanremo 92",
+		"answer_wrong_1":"Iniziano Olimpiadi 92",
+		"answer_wrong_2":"Muore Pablo Escobar",
+		"answer_wrong_3":"Debutta TG5 prima pagina"
+	},
+	{
+		"difficulty":"6",
+		"question":"Quale di questi calciatori non era pi\u00F9 in attivit\u00E0 alla data di creazione del canale Youtube dei Termosifoni?",
+		"answer_correct":"Fabio Cannavaro",
+		"answer_wrong_1":"Francesco Totti",
+		"answer_wrong_2":"Alex Del Piero",
+		"answer_wrong_3":"Andrea Pirlo"
+	},
+	{
+		"difficulty":"6",
+		"question":"La prima versione di F1 portata dai Termos \u00E8 il 2019. Quale di questi piloti IRL non era presente in griglia?",
+		"answer_correct":"Fernando Alonso",
+		"answer_wrong_1":"Charles Leclerc",
+		"answer_wrong_2":"Antonio Giovinazzi",
+		"answer_wrong_3":"Robert Kubica"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale arma \u00E8 rappresentata nel primo scudetto della Termosifoni F.C. su FIFA 23?",
+		"answer_correct":"Fionda",
+		"answer_wrong_1":"Pistole",
+		"answer_wrong_2":"Cannone",
+		"answer_wrong_3":"Pugnali"
+	},
+	{
+		"difficulty":"4",
+		"question":"Secondo il TermoGlossario del TermoVerse, che animale \u00E8 il Cavalloconiglio",
+		"answer_correct":"Lepre",
+		"answer_wrong_1":"Volpe",
+		"answer_wrong_2":"Lupo",
+		"answer_wrong_3":"Asino"
+	},
+	{
+		"difficulty":"3",
+		"question":"Di che colore \u00E8 il contenitore dell'originale vasca di sugo?",
+		"answer_correct":"Blu",
+		"answer_wrong_1":"Rosa",
+		"answer_wrong_2":"Giallo",
+		"answer_wrong_3":"Marrone"
+	},
+	{
+		"difficulty":"3",
+		"question":"12 ore. Nel server Minecraft del 2023 \u00E8 stata bruciata la casa peggiore. Che skin aveva il proprietario?",
+		"answer_correct":"Gabibbo",
+		"answer_wrong_1":"Kermit",
+		"answer_wrong_2":"Master Chief",
+		"answer_wrong_3":"Steve"
+	},
+	{
+		"difficulty":"3",
+		"question":"Al 2023, quale di questi publisher non \u00E8 presente nella top 10 dei giochi pi\u00F9 streammati dai Termosifoni",
+		"answer_correct":"EA",
+		"answer_wrong_1":"Ubisoft",
+		"answer_wrong_2":"Microsoft",
+		"answer_wrong_3":"Bandai Namco"
+	},
+	{
+		"difficulty":"5",
+		"question":"Secondo TwitchTracker, durante quale di questi giochi i Termosifoni hanno perso follower in media (Fino agosto 23)?",
+		"answer_correct":"Can't Drive This",
+		"answer_wrong_1":"You Suck At Parking",
+		"answer_wrong_2":"Layers Of Fear",
+		"answer_wrong_3":"Deathloop"
+	},
+	{
+		"difficulty":"5",
+		"question":"Secondo TwitchTracker, quale tra questi giochi ha segnato la media spettatori pi\u00F9 alta?",
+		"answer_correct":"Cards Against Humanity",
+		"answer_wrong_1":"Tricky Towers",
+		"answer_wrong_2":"Garry's Mod",
+		"answer_wrong_3":"Unturned"
+	},
+	{
+		"difficulty":"3",
+		"question":"Secondo TwitchTracker, qual \u00E8 il giorno della settimana, tra questi, in cui si streamma meno? (da nov '16 a ago '23)",
+		"answer_correct":"Mercoled\u00EC",
+		"answer_wrong_1":"Venerd\u00EC",
+		"answer_wrong_2":"Marted\u00EC",
+		"answer_wrong_3":"Gioved\u00EC"
+	},
+	{
+		"difficulty":"1",
+		"question":"Come si chiama il parassita che vive tra le parentesi tonde?",
+		"answer_correct":"Ovviamente",
+		"answer_wrong_1":"Trump",
+		"answer_wrong_2":"Oolong",
+		"answer_wrong_3":"Oppiopippo"
+	},
+	{
+		"difficulty":"4",
+		"question":"Per marketing, cosa mancava ai biscotti di Orazio, personaggio di Moro su GTA V RP?",
+		"answer_correct":"Il biscotto",
+		"answer_wrong_1":"La fortuna",
+		"answer_wrong_2":"La sfortuna",
+		"answer_wrong_3":"Lo zucchero"
+	},
+	{
+		"difficulty":"3",
+		"question":"Che marca di caff\u00E8 vendeva Orazio, personaggio di Moro su GTA V RP?",
+		"answer_correct":"Caldo Caldo",
+		"answer_wrong_1":"Ammazza",
+		"answer_wrong_2":"Kisto",
+		"answer_wrong_3":"Oolong"
+	},
+	{
+		"difficulty":"2",
+		"question":"Qual \u00E8 il cognome di Orazio, personaggio di Moro su GTA V RP?",
+		"answer_correct":"Pinozzi",
+		"answer_wrong_1":"Sugo",
+		"answer_wrong_2":"Casandrone",
+		"answer_wrong_3":"Leccabuco"
+	},
+	{
+		"difficulty":"3",
+		"question":"Su quale gioco \u00E8 nato il personaggio di Karate Casandrone, fortemente voluto da Mark?",
+		"answer_correct":"Trials Fusion",
+		"answer_wrong_1":"TTT",
+		"answer_wrong_2":"You Suck At Parking",
+		"answer_wrong_3":"Golf With Your Friends"
+	},
+	{
+		"difficulty":"4",
+		"question":"Di cosa parlava la metafora che ha visto il debutto dalla sigla cantata da Mark nei video di IMDT?",
+		"answer_correct":"Lasagne",
+		"answer_wrong_1":"The Binding of Isaac",
+		"answer_wrong_2":"Soldi",
+		"answer_wrong_3":"Guidare l'auto"
+	},
+	{
+		"difficulty":"3",
+		"question":"Nel gioco TermoVerse Chronicles, di quale citt\u00E0 \u00E8 l'uva?",
+		"answer_correct":"Sondrio",
+		"answer_wrong_1":"Rozzano",
+		"answer_wrong_2":"Povo",
+		"answer_wrong_3":"Napoli"
+	},
+	{
+		"difficulty":"5",
+		"question":"Qual \u00E8 stata la prima auto di Moro nella live sub-only F1 2019?",
+		"answer_correct":"McLaren",
+		"answer_wrong_1":"Racing Point",
+		"answer_wrong_2":"Renault",
+		"answer_wrong_3":"Haas"
+	},
+	{
+		"difficulty":"4",
+		"question":"Ad agosto 2023, quanti canali vocali \"Sala Giochi\" ci sono sul Discord dei Termosifoni?",
+		"answer_correct":"5",
+		"answer_wrong_1":"3",
+		"answer_wrong_2":"1",
+		"answer_wrong_3":"2"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale gioco \u00E8 stato \"inquadrato\" per primo nel canale Discord \"Museo\"?",
+		"answer_correct":"Farming Simulator",
+		"answer_wrong_1":"Minecraft",
+		"answer_wrong_2":"Gartic Phone",
+		"answer_wrong_3":"Who's Your Daddy"
+	},
+	{
+		"difficulty":"4",
+		"question":"Nella run di Moro su Bloodborne del 2023, quante morti ci sono state in live?",
+		"answer_correct":"69",
+		"answer_wrong_1":"0",
+		"answer_wrong_2":"298",
+		"answer_wrong_3":"14"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quale di queste azioni Lyezar compie per prima nell'emote TermoMotoGP?",
+		"answer_correct":"Guarda a destra",
+		"answer_wrong_1":"Si toglie le cuffie",
+		"answer_wrong_2":"Si alza",
+		"answer_wrong_3":"\u00C8 fuori inquadratura"
+	},
+	{
+		"difficulty":"4",
+		"question":"Di che colore era il cavo \"Cable\" originale, apparso per la prima volta durante una live di It's Quiz Time",
+		"answer_correct":"Giallo",
+		"answer_wrong_1":"Nero",
+		"answer_wrong_2":"Rosso",
+		"answer_wrong_3":"Grigio"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quante live ogni 30gg in media fanno i Termosifoni, senza contare live saltate per causa maggiore o dirette extra?",
+		"answer_correct":"60",
+		"answer_wrong_1":"65",
+		"answer_wrong_2":"55",
+		"answer_wrong_3":"70"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quando ha debuttato la video-sigla del TermoGiornale?",
+		"answer_correct":"Ottobre 2022",
+		"answer_wrong_1":"Settembre 2022",
+		"answer_wrong_2":"Novembre 2022",
+		"answer_wrong_3":"Agosto 2022"
+	},
+	{
+		"difficulty":"4",
+		"question":"Non poteva mancare una domanda autoreferenziale. Cosa ha come avatar Pasqui industry (ciao!), autore della mod?",
+		"answer_correct":"Una lettera",
+		"answer_wrong_1":"Un animale",
+		"answer_wrong_2":"Un marchio di auto",
+		"answer_wrong_3":"Una sua foto"
+	},
+	{
+		"difficulty":"3",
+		"question":"Nel viaggio in Giappone 2023, vi \u00E8 stata la visita ad un passaggio a livello famoso rappresentato in un'opera, quale?",
+		"answer_correct":"Slam Dunk",
+		"answer_wrong_1":"GTO",
+		"answer_wrong_2":"One Piece",
+		"answer_wrong_3":"Detective Conan"
+	},
+	{
+		"difficulty":"5",
+		"question":"Quale di questi giochi non \u00E8 stato mostrato nella stessa live con un collegamento dal viaggio in Giappone 2023?",
+		"answer_correct":"Resident Evil 4",
+		"answer_wrong_1":"King Of The Castle",
+		"answer_wrong_2":"Dredge",
+		"answer_wrong_3":"EuroTruck Simulator 2"
+	},
+	{
+		"difficulty":"5",
+		"question":"Quanto \u00E8 costato il nastro adesivo con scritto Pino, preso da Mark durante il viaggio in Giappone 2023?",
+		"answer_correct":"300 Yen",
+		"answer_wrong_1":"500 Yen",
+		"answer_wrong_2":"100 Yen",
+		"answer_wrong_3":"150 Yen"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quale di questi non \u00E8 stato un titolo delle live dedicate alla visione di un film su Prime Video?",
+		"answer_correct":"CinemaOnAir",
+		"answer_wrong_1":"Cinesiforum",
+		"answer_wrong_2":"FeciCinemas",
+		"answer_wrong_3":"WatchParty"
+	},
+	{
+		"difficulty":"5",
+		"question":"Quale di questi film \u00E8 stato visionato per primo nelle dirette dedicate ad Amazon Prime Video?",
+		"answer_correct":"Bullet Train",
+		"answer_wrong_1":"Total Recall",
+		"answer_wrong_2":"Blade Runner",
+		"answer_wrong_3":"American Psycho"
+	},
+	{
+		"difficulty":"3",
+		"question":"Qual \u00E8 stata la prima nazione ad essere apparsa nei quiz su GeoGuessr fatto dai Termosifoni?",
+		"answer_correct":"Italia",
+		"answer_wrong_1":"Singapore",
+		"answer_wrong_2":"Bangladesh",
+		"answer_wrong_3":"Regno Unito"
+	},
+	{
+		"difficulty":"3",
+		"question":"Secondo Mark su GeoGuessr, \u00E8 una nazione piena di \"Rosso e verde\"",
+		"answer_correct":"Bangladesh",
+		"answer_wrong_1":"Singapore",
+		"answer_wrong_2":"Azerbaijan",
+		"answer_wrong_3":"Lituania"
+	},
+	{
+		"difficulty":"6",
+		"question":"Nella diretta di EuroTruck Simulator 2 pi\u00F9 datata presente su YouTube, qual \u00E8 stata la citt\u00E0 di destinazione?",
+		"answer_correct":"Amburgo",
+		"answer_wrong_1":"Stoccolma",
+		"answer_wrong_2":"Bari",
+		"answer_wrong_3":"Milano"
+	},
+	{
+		"difficulty":"3",
+		"question":"Secondo la descrizione del canale YouTube, a cosa somiglierebbe Twitch?",
+		"answer_correct":"The Witch",
+		"answer_wrong_1":"Youtube Viola",
+		"answer_wrong_2":"Richie Rich",
+		"answer_wrong_3":"Instagram Fullscreen"
+	},
+	{
+		"difficulty":"3",
+		"question":"Nella descrizione del canale YouTube delle live caricate dei Termos, vi \u00E8 un link YouTube. A quale video rimanda?",
+		"answer_correct":"La Vera Storia dei TS",
+		"answer_wrong_1":"Never Gonna Give You Up",
+		"answer_wrong_2":"Clip di Moro, dice Twitch",
+		"answer_wrong_3":"Sigla simil-Friends"
+	},
+	{
+		"difficulty":"4",
+		"question":"Secondo la lore di Moro, da cosa sono nati gli Gnomi Delle Feci?",
+		"answer_correct":"Da un esperimento",
+		"answer_wrong_1":"Dalla polvere del suo PC",
+		"answer_wrong_2":"Da raggi del Sole di Mark",
+		"answer_wrong_3":"Dalla terra di Povo"
+	},
+	{
+		"difficulty":"3",
+		"question":"In quale TermoMaratona \u00E8 stata disegnata l'emote dello Gnomo Delle Feci per la prima volta?",
+		"answer_correct":"Giugno 2020",
+		"answer_wrong_1":"Marzo 2020",
+		"answer_wrong_2":"Dicembre 2020",
+		"answer_wrong_3":"Settembre 2020"
+	},
+	{
+		"difficulty":"3",
+		"question":"Di che colore \u00E8 la maglia del cartonato di Sheldon Cooper di Mark?",
+		"answer_correct":"Verde",
+		"answer_wrong_1":"Rosso",
+		"answer_wrong_2":"Giallo",
+		"answer_wrong_3":"Blu"
+	},
+	{
+		"difficulty":"5",
+		"question":"In quale di questi livelli di Gang Beasts non puoi cadere in acqua e affogare?",
+		"answer_correct":"Gondola",
+		"answer_wrong_1":"Trawler",
+		"answer_wrong_2":"Buoy",
+		"answer_wrong_3":"Wheel"
+	},
+	{
+		"difficulty":"5",
+		"question":"Quale tra questi giochi, spesso portati in live, ha il punteggio Opencritic della critica pi\u00F9 basso?",
+		"answer_correct":"Farming Simulator 19",
+		"answer_wrong_1":"PUBG",
+		"answer_wrong_2":"Rainbow Six Siege",
+		"answer_wrong_3":"Hunt: Showdown"
+	},
+	{
+		"difficulty":"5",
+		"question":"Ad agosto 2023, quale tra questi FIFA ha il numero di ore di streaming pi\u00F9 alto dai Termosifoni?",
+		"answer_correct":"FIFA 21",
+		"answer_wrong_1":"FIFA 20",
+		"answer_wrong_2":"FIFA 22",
+		"answer_wrong_3":"FIFA 19"
+	},
+	{
+		"difficulty":"6",
+		"question":"Quale di questi FIFA non ha la sua ultima live nel mese di Settembre?",
+		"answer_correct":"FIFA 21",
+		"answer_wrong_1":"FIFA 20",
+		"answer_wrong_2":"FIFA 22",
+		"answer_wrong_3":"FIFA 15"
+	},
+	{
+		"difficulty":"4",
+		"question":"Come potete trovare Mark su X (Precedentemente noto come Twitter)",
+		"answer_correct":"TsTheMark",
+		"answer_wrong_1":"MarcoMark_",
+		"answer_wrong_2":"MarkTermosifoni",
+		"answer_wrong_3":"TheMarkk93"
+	},
+	{
+		"difficulty":"2",
+		"question":"In cosa consiste l'avatar dei social di Luke a met\u00E0 2023?",
+		"answer_correct":"Due lettere",
+		"answer_wrong_1":"Una lettera",
+		"answer_wrong_2":"Logo squadra di calcio",
+		"answer_wrong_3":"Foto di un atleta"
+	},
+	{
+		"difficulty":"3",
+		"question":"Quale di questi personaggi ha debuttato prima degli altri?",
+		"answer_correct":"Zuppa Di Culo Jr",
+		"answer_wrong_1":"Culetto",
+		"answer_wrong_2":"Carmelina",
+		"answer_wrong_3":"Il Sole Di Mark"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale di questi personaggi ha debuttato prima gli altri?",
+		"answer_correct":"Putino Official",
+		"answer_wrong_1":"Piero Fassino",
+		"answer_wrong_2":"Karate Casandrone",
+		"answer_wrong_3":"Kek W Bush"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale di questi personaggi non ha debuttato nel 2021?",
+		"answer_correct":"Nicchio Chesticchio",
+		"answer_wrong_1":"Maurizio Ano",
+		"answer_wrong_2":"Il Papa Che Spara",
+		"answer_wrong_3":"Ralph Supersonico"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale di questi personaggi ha debuttato dopo gli altri?",
+		"answer_correct":"Maurizio Burro",
+		"answer_wrong_1":"Maurizio Ano",
+		"answer_wrong_2":"Maurizio Infiladito",
+		"answer_wrong_3":"Maurizio Leccabuco"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale di questi personaggi ha debuttato dopo gli altri?",
+		"answer_correct":"Carlo Cacchio",
+		"answer_wrong_1":"Carlo Attrezzi",
+		"answer_wrong_2":"Carletto Pisolo",
+		"answer_wrong_3":"Carletto Ming"
+	},
+	{
+		"difficulty":"5",
+		"question":"Quanti mesi sono passati tra il debutto di Zuppa Di Culo e suo figlio?",
+		"answer_correct":"19",
+		"answer_wrong_1":"12",
+		"answer_wrong_2":"24",
+		"answer_wrong_3":"30"
+	},
+	{
+		"difficulty":"6",
+		"question":"Nella storia disegnata della morte della signora Muslera, che aspetto aveva il poliziotto?",
+		"answer_correct":"Paperino",
+		"answer_wrong_1":"Invisibile",
+		"answer_wrong_2":"Pistola",
+		"answer_wrong_3":"Salame"
+	},
+	{
+		"difficulty":"6",
+		"question":"Chi si \u00E8 costituito per la morte della signora Muslera, vittima in una delle storie disegnate con Termos e Ckibe?",
+		"answer_correct":"L'Oki",
+		"answer_wrong_1":"Bartolomeo",
+		"answer_wrong_2":"Gaetano",
+		"answer_wrong_3":"Capitan Mudand"
+	},
+	{
+		"difficulty":"5",
+		"question":"Dal racconto di Mark, a chi aveva passato, per errore, la famosa immagine del \"Lo rigano\"",
+		"answer_correct":"Assistenza Amazon",
+		"answer_wrong_1":"A rappresentanti Twitch",
+		"answer_wrong_2":"Ad un utente su Vinted",
+		"answer_wrong_3":"Ad un fan su Instagram"
+	},
+	{
+		"difficulty":"6",
+		"question":"Cosa successe ai cornetti ordinati a domicilio nella famosa storia di KoRn?",
+		"answer_correct":"Arrivano gusti sbagliati",
+		"answer_wrong_1":"Non arrivarono mai",
+		"answer_wrong_2":"Ne mancava uno",
+		"answer_wrong_3":"Ce n'erano 4 di pi\u00F9"
+	},
+	{
+		"difficulty":"7",
+		"question":"Live di Ckibe.\u00C8 stata raccontata la storia di quando Mark dorm\u00EC russando su TS e della ditta logistica chiamata...",
+		"answer_correct":"La Vozza",
+		"answer_wrong_1":"La Russa",
+		"answer_wrong_2":"Lo Rigano",
+		"answer_wrong_3":"La Mazza"
+	},
+	{
+		"difficulty":"5",
+		"question":"Di chi era il messaggio che ha preceduto il disegno noto come l'emote TermoVisione su Gartic Phone?",
+		"answer_correct":"Mark",
+		"answer_wrong_1":"Luke",
+		"answer_wrong_2":"Jtaz",
+		"answer_wrong_3":"Ckibe"
+	},
+	{
+		"difficulty":"6",
+		"question":"Completa la frase: \"Gigio Dormammu, sono venuto a...\"",
+		"answer_correct":"Palleggiare",
+		"answer_wrong_1":"Palpeggiare",
+		"answer_wrong_2":"Patteggiare",
+		"answer_wrong_3":"Parcheggiare"
+	},
+	{
+		"difficulty":"3",
+		"question":"StreamElements \u00E8 una delle piattaforme usate dai Termosifoni  per gestire le donazioni. Che logo ha la piattaforma?",
+		"answer_correct":"Un Razzo che decolla",
+		"answer_wrong_1":"Un fumetto con occhiali",
+		"answer_wrong_2":"Una banconota di dollaro",
+		"answer_wrong_3":"Una S a strisce"
+	},
+	{
+		"difficulty":"5",
+		"question":"\"Siamo un contatto di assistenza con operatori che offrono assistenza...\". Quando \u00E8 accaduto questo avvenimento?",
+		"answer_correct":"Gennaio 2023",
+		"answer_wrong_1":"Novembre 2022",
+		"answer_wrong_2":"Marzo 2023",
+		"answer_wrong_3":"Settembre 2022"
+	},
+	{
+		"difficulty":"4",
+		"question":"Quale di questi giochi portati per tante ore dai Termos non \u00E8 compatibile con il Workshop di Steam a met\u00E0 2023?",
+		"answer_correct":"Valheim",
+		"answer_wrong_1":"Project Zomboid",
+		"answer_wrong_2":"Rust",
+		"answer_wrong_3":"Euro Truck Sim. 2"
+	},
+	{
+		"difficulty":"6",
+		"question":"Secondo il calendario cinese, in quale anno \u00E8 nato Mark?",
+		"answer_correct":"Gallo",
+		"answer_wrong_1":"Scimmia",
+		"answer_wrong_2":"Topo",
+		"answer_wrong_3":"Drago"
+	},
+	{
+		"difficulty":"6",
+		"question":"Secondo il calendario cinese, in quale anno \u00E8 nato Moro?",
+		"answer_correct":"Scimmia",
+		"answer_wrong_1":"Drago",
+		"answer_wrong_2":"Tigre",
+		"answer_wrong_3":"Serpente"
+	},
+	{
+		"difficulty":"6",
+		"question":"Secondo il calendario cinese, in quale anno \u00E8 nato Lyezar?",
+		"answer_correct":"Drago",
+		"answer_wrong_1":"Lucertola",
+		"answer_wrong_2":"Cane",
+		"answer_wrong_3":"Bufalo"
+	}
+]
